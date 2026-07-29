@@ -52,6 +52,10 @@ def print_result(result: TaskResult) -> None:
 
 
 async def main() -> None:
+    # Load ANTHROPIC_API_KEY from .env if present (same behaviour as batch_runner)
+    from .batch_runner import load_dotenv
+    load_dotenv(Path(__file__).resolve().parents[2] / ".env")
+
     parser = argparse.ArgumentParser(description="Run web agent tasks")
     parser.add_argument("--task", choices=TASK_GROUPS.keys(), help="Task group to run")
     parser.add_argument("--url", help="Custom URL to test")
