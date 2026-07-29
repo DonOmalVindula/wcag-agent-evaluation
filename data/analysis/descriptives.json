@@ -1,0 +1,15 @@
+{
+  "overall_success_rate": 0.5345501955671447,
+  "n_runs": 5369,
+  "n_sites": 199,
+  "self_vs_verified_agreement": 0.7440864220525237,
+  "headline_axtree_compliance_vs_success": {
+    "x": "compliance_score",
+    "y": "success_rate",
+    "method": "spearman",
+    "coefficient": 0.3621,
+    "p_value": 0.0,
+    "n": 196,
+    "significant": true
+  }
+}

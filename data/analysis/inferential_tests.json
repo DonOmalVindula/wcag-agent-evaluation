@@ -1,0 +1,92 @@
+{
+  "band_test": {
+    "test": "kruskal_wallis_across_compliance_bands",
+    "H": 28.39925584965209,
+    "p_value": 6.810514896125885e-07,
+    "bands": {
+      "low": {
+        "n": 39,
+        "mean_success": 0.33618233618233617,
+        "sd": 0.3452896435434869
+      },
+      "medium": {
+        "n": 65,
+        "mean_success": 0.5965811965811966,
+        "sd": 0.3483698981613068
+      },
+      "high": {
+        "n": 92,
+        "mean_success": 0.714975845410628,
+        "sd": 0.29982328618284665
+      }
+    }
+  },
+  "mode_tests": {
+    "test": "friedman_across_observation_modes",
+    "chi2": 93.11343804537478,
+    "p_value": 6.03495217666528e-21,
+    "n_sites": 196,
+    "mean_success_by_mode": {
+      "accessibility_tree": 0.6003401360544218,
+      "dom": 0.5867346938775511,
+      "screenshot": 0.41879251700680276
+    },
+    "pairwise": [
+      {
+        "comparison": "accessibility_tree_vs_screenshot",
+        "mean_difference": 0.18154761904761907,
+        "wilcoxon_p": 3.1955618005522584e-17,
+        "bonferroni_significant": true,
+        "rank_biserial_effect_size": 0.8091954022988506
+      },
+      {
+        "comparison": "dom_vs_screenshot",
+        "mean_difference": 0.16794217687074833,
+        "wilcoxon_p": 1.8800726652718092e-15,
+        "bonferroni_significant": true,
+        "rank_biserial_effect_size": 0.767162415049739
+      },
+      {
+        "comparison": "accessibility_tree_vs_dom",
+        "mean_difference": 0.013605442176870746,
+        "wilcoxon_p": 0.4182339806586657,
+        "bonferroni_significant": false,
+        "rank_biserial_effect_size": 0.08515406162464986
+      }
+    ]
+  },
+  "correlation_strength": {
+    "test": "steiger_dependent_correlation_comparison",
+    "rho_by_mode": {
+      "accessibility_tree": 0.3621242480280307,
+      "dom": 0.2964938989890432,
+      "screenshot": 0.2809781424539808
+    },
+    "comparisons": [
+      {
+        "comparison": "accessibility_tree_vs_screenshot",
+        "rho_a": 0.3621242480280307,
+        "rho_b": 0.2809781424539808,
+        "steiger_z": 1.6071064740650443,
+        "p_value": 0.10803101336616594,
+        "significant": false
+      },
+      {
+        "comparison": "dom_vs_screenshot",
+        "rho_a": 0.2964938989890432,
+        "rho_b": 0.2809781424539808,
+        "steiger_z": 0.30296785192834924,
+        "p_value": 0.7619143613127952,
+        "significant": false
+      },
+      {
+        "comparison": "accessibility_tree_vs_dom",
+        "rho_a": 0.3621242480280307,
+        "rho_b": 0.2964938989890432,
+        "steiger_z": 1.4208486701399599,
+        "p_value": 0.15536075803629812,
+        "significant": false
+      }
+    ]
+  }
+}

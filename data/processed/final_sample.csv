@@ -1,0 +1,201 @@
+domain,name,sector,url,tranco_rank,compliance_score,compliance_bin
+amazon.com,Amazon,ecommerce,https://www.amazon.com,24,0.9166666666666666,high
+shopify.com,Shopify,ecommerce,https://www.shopify.com,164,0.90625,high
+booking.com,Booking.com,ecommerce,https://www.booking.com,262,0.96875,high
+etsy.com,Etsy,ecommerce,https://www.etsy.com,284,1.0,high
+temu.com,Temu,ecommerce,https://www.temu.com,378,0.9375,high
+walmart.com,Walmart,ecommerce,https://www.walmart.com,397,1.0,high
+shein.com,SHEIN,ecommerce,https://www.shein.com,496,0.9333333333333333,high
+target.com,Target,ecommerce,https://www.target.com,586,1.0,high
+ikea.com,IKEA,ecommerce,https://www.ikea.com,609,1.0,high
+nike.com,Nike,ecommerce,https://www.nike.com,633,0.962962962962963,high
+homedepot.com,Home Depot,ecommerce,https://www.homedepot.com,741,0.9375,high
+bestbuy.com,Best Buy,ecommerce,https://www.bestbuy.com,745,0.9375,high
+airbnb.com,Airbnb,ecommerce,https://www.airbnb.com,893,0.9666666666666667,high
+ebay.com,eBay,ecommerce,https://www.ebay.com,199,0.8857142857142857,medium
+hm.com,H&M,ecommerce,https://www.hm.com,939,0.75,medium
+lowes.com,Lowe's,ecommerce,https://www.lowes.com,950,0.75,medium
+macys.com,Macy's,ecommerce,https://www.macys.com,1031,0.75,medium
+adidas.com,Adidas,ecommerce,https://www.adidas.com,2813,0.7142857142857143,medium
+asos.com,ASOS,ecommerce,https://www.asos.com,3359,0.75,medium
+zara.com,Zara,ecommerce,https://www.zara.com,3646,0.75,medium
+gap.com,Gap,ecommerce,https://www.gap.com,3920,0.8709677419354839,medium
+sephora.com,Sephora,ecommerce,https://www.sephora.com,4068,0.75,medium
+newegg.com,Newegg,ecommerce,https://www.newegg.com,4806,0.8787878787878788,medium
+overstock.com,Overstock,ecommerce,https://www.overstock.com,,0.84,medium
+wish.com,Wish,ecommerce,https://www.wish.com,,0.8857142857142857,medium
+dhgate.com,DHgate,ecommerce,https://www.dhgate.com,,0.75,medium
+aliexpress.com,AliExpress,ecommerce,https://www.aliexpress.com,476,0.4,low
+expedia.com,Expedia,ecommerce,https://www.expedia.com,2023,0.9444444444444444,high
+uniqlo.com,Uniqlo,ecommerce,https://www.uniqlo.com,3695,0.9642857142857143,high
+chewy.com,Chewy,ecommerce,https://www.chewy.com,3877,0.96,high
+nordstrom.com,Nordstrom,ecommerce,https://www.nordstrom.com,4202,1.0,high
+zappos.com,Zappos,ecommerce,https://www.zappos.com,4226,0.96875,high
+trivago.com,Trivago,ecommerce,https://www.trivago.com,,0.9285714285714286,high
+banggood.com,Banggood,ecommerce,https://www.banggood.com,,0.76,medium
+6pm.com,6pm,ecommerce,https://www.6pm.com,,1.0,high
+jcpenney.com,JCPenney,ecommerce,https://www.jcpenney.com,,0.75,medium
+kohls.com,Kohl's,ecommerce,https://www.kohls.com,,0.75,medium
+forever21.com,Forever 21,ecommerce,https://www.forever21.com,,0.9393939393939394,high
+urbanoutfitters.com,Urban Outfitters,ecommerce,https://www.urbanoutfitters.com,,1.0,high
+anthropologie.com,Anthropologie,ecommerce,https://www.anthropologie.com,,0.9,high
+mit.edu,MIT,education,https://www.mit.edu,226,0.9333333333333333,high
+harvard.edu,Harvard,education,https://www.harvard.edu,308,1.0,high
+stanford.edu,Stanford,education,https://www.stanford.edu,374,1.0,high
+berkeley.edu,UC Berkeley,education,https://www.berkeley.edu,594,1.0,high
+princeton.edu,Princeton,education,https://www.princeton.edu,876,1.0,high
+columbia.edu,Columbia,education,https://www.columbia.edu,1018,0.9428571428571428,high
+coursera.org,Coursera,education,https://www.coursera.org,1061,0.9714285714285714,high
+ox.ac.uk,Oxford,education,https://www.ox.ac.uk,1093,0.9285714285714286,high
+yale.edu,Yale,education,https://www.yale.edu,1151,0.9333333333333333,high
+umn.edu,U Minnesota,education,https://www.umn.edu,1286,0.9655172413793104,high
+ucla.edu,UCLA,education,https://www.ucla.edu,1328,0.9333333333333333,high
+cmu.edu,Carnegie Mellon,education,https://www.cmu.edu,1474,0.9642857142857143,high
+cam.ac.uk,Cambridge,education,https://www.cam.ac.uk,1499,0.9666666666666667,high
+duolingo.com,Duolingo,education,https://www.duolingo.com,471,0.875,medium
+ted.com,TED,education,https://www.ted.com,666,0.8529411764705882,medium
+brilliant.org,Brilliant,education,https://www.brilliant.org,,0.8928571428571429,medium
+futurelearn.com,FutureLearn,education,https://www.futurelearn.com,,0.8648648648648649,medium
+nus.edu.sg,NUS Singapore,education,https://www.nus.edu.sg,,0.8,medium
+udemy.com,Udemy,education,https://www.udemy.com,1821,0.9393939393939394,high
+unimelb.edu.au,U Melbourne,education,https://www.unimelb.edu.au,2116,0.96875,high
+purdue.edu,Purdue,education,https://www.purdue.edu,2159,0.9666666666666667,high
+khanacademy.org,Khan Academy,education,https://www.khanacademy.org,2195,1.0,high
+nyu.edu,NYU,education,https://www.nyu.edu,2207,0.9375,high
+ucl.ac.uk,UCL,education,https://www.ucl.ac.uk,2617,1.0,high
+ethz.ch,ETH Zurich,education,https://www.ethz.ch,2706,0.967741935483871,high
+edx.org,edX,education,https://www.edx.org,3538,0.9696969696969697,high
+gatech.edu,Georgia Tech,education,https://www.gatech.edu,3556,0.9,high
+imperial.ac.uk,Imperial College,education,https://www.imperial.ac.uk,,0.967741935483871,high
+westminster.ac.uk,Westminster,education,https://www.westminster.ac.uk,,1.0,high
+codecademy.com,Codecademy,education,https://www.codecademy.com,,1.0,high
+skillshare.com,Skillshare,education,https://www.skillshare.com,,0.9333333333333333,high
+lynda.com,LinkedIn Learning,education,https://www.lynda.com,,0.96875,high
+scholastic.com,Scholastic,education,https://www.scholastic.com,,0.9117647058823529,high
+udacity.com,Udacity,education,https://www.udacity.com,,1.0,high
+pluralsight.com,Pluralsight,education,https://www.pluralsight.com,,0.9375,high
+freecodecamp.org,freeCodeCamp,education,https://www.freecodecamp.org,,1.0,high
+w3schools.com,W3Schools,education,https://www.w3schools.com,,0.9428571428571428,high
+open.edu,Open University,education,https://www.open.edu,,0.9285714285714286,high
+lse.ac.uk,LSE,education,https://www.lse.ac.uk,,1.0,high
+kcl.ac.uk,King's College London,education,https://www.kcl.ac.uk,,0.967741935483871,high
+europa.eu,EU Portal,government,https://www.europa.eu,119,1.0,high
+cdc.gov,CDC,government,https://www.cdc.gov,342,1.0,high
+nasa.gov,NASA,government,https://www.nasa.gov,398,0.9666666666666667,high
+noaa.gov,NOAA,government,https://www.noaa.gov,667,0.9666666666666667,high
+fda.gov,FDA,government,https://www.fda.gov,773,1.0,high
+irs.gov,IRS,government,https://www.irs.gov,783,0.9696969696969697,high
+worldbank.org,World Bank,government,https://www.worldbank.org,897,0.96875,high
+justice.gov,DOJ,government,https://www.justice.gov,914,0.9428571428571428,high
+state.gov,State Dept,government,https://www.state.gov,919,0.967741935483871,high
+epa.gov,EPA,government,https://www.epa.gov,937,1.0,high
+whitehouse.gov,White House,government,https://www.whitehouse.gov,957,1.0,high
+oecd.org,OECD,government,https://www.oecd.org,1098,1.0,high
+canada.ca,Canada.ca,government,https://www.canada.ca,1347,1.0,high
+un.org,United Nations,government,https://www.un.org,351,0.8666666666666667,medium
+senate.gov,US Senate,government,https://www.senate.gov,2323,0.75,medium
+defense.gov,US Defense,government,https://www.defense.gov,4391,0.75,medium
+australia.gov.au,Australia.gov.au,government,https://www.australia.gov.au,,0.8620689655172413,medium
+india.gov.in,India Gov,government,https://www.india.gov.in,,0.75,medium
+sec.gov,SEC,government,https://www.sec.gov,,0.8571428571428572,medium
+fbi.gov,FBI,government,https://www.fbi.gov,,0.8709677419354839,medium
+hhs.gov,HHS,government,https://www.hhs.gov,,0.75,medium
+dot.gov,Dept of Transport,government,https://www.dot.gov,,0.75,medium
+energy.gov,US Energy,government,https://www.energy.gov,2307,0.9696969696969697,high
+congress.gov,Congress,government,https://www.congress.gov,2403,0.9375,high
+imf.org,IMF,government,https://www.imf.org,2451,0.9655172413793104,high
+ssa.gov,Social Security,government,https://www.ssa.gov,2454,0.935483870967742,high
+usa.gov,USA.gov,government,https://www.usa.gov,2637,1.0,high
+treasury.gov,US Treasury,government,https://www.treasury.gov,2802,0.9375,high
+gov.uk,GOV.UK,government,https://www.gov.uk,,1.0,high
+data.gov,Data.gov,government,https://www.data.gov,,1.0,high
+parliament.uk,UK Parliament,government,https://www.parliament.uk,,0.96875,high
+govt.nz,New Zealand Gov,government,https://www.govt.nz,,1.0,high
+ec.europa.eu,European Commission,government,https://www.ec.europa.eu,,0.9655172413793104,high
+va.gov,Veterans Affairs,government,https://www.va.gov,,1.0,high
+dol.gov,Dept of Labor,government,https://www.dol.gov,,1.0,high
+ed.gov,Dept of Education,government,https://www.ed.gov,,1.0,high
+fema.gov,FEMA,government,https://www.fema.gov,,1.0,high
+sba.gov,SBA,government,https://www.sba.gov,,1.0,high
+gsa.gov,GSA,government,https://www.gsa.gov,,1.0,high
+uscis.gov,USCIS,government,https://www.uscis.gov,,0.9722222222222222,high
+nih.gov,NIH,healthcare,https://www.nih.gov,140,0.967741935483871,high
+who.int,WHO,healthcare,https://www.who.int,245,1.0,high
+mayoclinic.org,Mayo Clinic,healthcare,https://www.mayoclinic.org,816,1.0,high
+healthline.com,Healthline,healthcare,https://www.healthline.com,884,0.9393939393939394,high
+clevelandclinic.org,Cleveland Clinic,healthcare,https://www.clevelandclinic.org,1853,0.9,high
+medicalnewstoday.com,Medical News Today,healthcare,https://www.medicalnewstoday.com,2029,1.0,high
+medlineplus.gov,MedlinePlus,healthcare,https://www.medlineplus.gov,2642,0.9666666666666667,high
+cancer.org,American Cancer Society,healthcare,https://www.cancer.org,3114,1.0,high
+hopkinsmedicine.org,Johns Hopkins,healthcare,https://www.hopkinsmedicine.org,3303,1.0,high
+ama-assn.org,AMA,healthcare,https://www.ama-assn.org,4684,0.9666666666666667,high
+everydayhealth.com,Everyday Health,healthcare,https://www.everydayhealth.com,4705,0.9696969696969697,high
+nhs.uk,NHS,healthcare,https://www.nhs.uk,,1.0,high
+patient.info,Patient.info,healthcare,https://www.patient.info,,0.9655172413793104,high
+webmd.com,WebMD,healthcare,https://www.webmd.com,855,0.8157894736842105,medium
+psychologytoday.com,Psychology Today,healthcare,https://www.psychologytoday.com,1126,0.8787878787878788,medium
+medscape.com,Medscape,healthcare,https://www.medscape.com,3058,0.8,medium
+drugs.com,Drugs.com,healthcare,https://www.drugs.com,4324,0.75,medium
+lung.org,American Lung Assoc,healthcare,https://www.lung.org,,0.8823529411764706,medium
+mentalhealth.gov,MentalHealth.gov,healthcare,https://www.mentalhealth.gov,,0.75,medium
+samhsa.gov,SAMHSA,healthcare,https://www.samhsa.gov,,0.75,medium
+rxlist.com,RxList,healthcare,https://www.rxlist.com,,0.8421052631578947,medium
+kaiser.com,Kaiser Health News,healthcare,https://www.kaiser.com,,0.7916666666666666,medium
+aetna.com,Aetna,healthcare,https://www.aetna.com,,0.5,low
+health.com,Health.com,healthcare,https://www.health.com,,0.935483870967742,high
+kff.org,KFF,healthcare,https://www.kff.org,,0.9,high
+diabetes.org,ADA,healthcare,https://www.diabetes.org,,0.925,high
+alz.org,Alzheimer's Assoc,healthcare,https://www.alz.org,,0.967741935483871,high
+mountsinai.org,Mount Sinai,healthcare,https://www.mountsinai.org,,0.9090909090909091,high
+stanfordhealthcare.org,Stanford Health,healthcare,https://www.stanfordhealthcare.org,,0.96,high
+ucsfhealth.org,UCSF Health,healthcare,https://www.ucsfhealth.org,,0.96875,high
+pennmedicine.org,Penn Medicine,healthcare,https://www.pennmedicine.org,,1.0,high
+massgeneral.org,Mass General,healthcare,https://www.massgeneral.org,,0.9642857142857143,high
+bmc.org,Boston Medical Center,healthcare,https://www.bmc.org,,0.9285714285714286,high
+zocdoc.com,Zocdoc,healthcare,https://www.zocdoc.com,,1.0,high
+walgreens.com,Walgreens,healthcare,https://www.walgreens.com,,0.9428571428571428,high
+cvs.com,CVS,healthcare,https://www.cvs.com,,0.9230769230769231,high
+cigna.com,Cigna,healthcare,https://www.cigna.com,,1.0,high
+humana.com,Humana,healthcare,https://www.humana.com,,0.935483870967742,high
+kaiserpermanente.org,Kaiser Permanente,healthcare,https://www.kaiserpermanente.org,,0.9666666666666667,high
+health.harvard.edu,Harvard Health,healthcare,https://www.health.harvard.edu,,0.9285714285714286,high
+cnn.com,CNN,news,https://www.cnn.com,181,0.935483870967742,high
+theguardian.com,The Guardian,news,https://www.theguardian.com,187,0.9117647058823529,high
+bbc.com,BBC,news,https://www.bbc.com,204,0.962962962962963,high
+bbc.co.uk,BBC UK,news,https://www.bbc.co.uk,217,0.962962962962963,high
+reuters.com,Reuters,news,https://www.reuters.com,288,1.0,high
+wsj.com,WSJ,news,https://www.wsj.com,358,1.0,high
+ft.com,Financial Times,news,https://www.ft.com,528,0.9642857142857143,high
+time.com,Time,news,https://www.time.com,539,0.967741935483871,high
+independent.co.uk,The Independent,news,https://www.independent.co.uk,639,0.9285714285714286,high
+abc.net.au,ABC Australia,news,https://www.abc.net.au,856,1.0,high
+aljazeera.com,Al Jazeera,news,https://www.aljazeera.com,944,0.9375,high
+theatlantic.com,The Atlantic,news,https://www.theatlantic.com,951,1.0,high
+economist.com,The Economist,news,https://www.economist.com,1101,1.0,high
+nytimes.com,NY Times,news,https://www.nytimes.com,152,0.8378378378378378,medium
+forbes.com,Forbes,news,https://www.forbes.com,197,0.8709677419354839,medium
+telegraph.co.uk,The Telegraph,news,https://www.telegraph.co.uk,443,0.75,medium
+npr.org,NPR,news,https://www.npr.org,482,0.8235294117647058,medium
+apnews.com,AP News,news,https://www.apnews.com,504,0.8484848484848485,medium
+nbcnews.com,NBC News,news,https://www.nbcnews.com,510,0.8,medium
+usatoday.com,USA Today,news,https://www.usatoday.com,543,0.8,medium
+cbsnews.com,CBS News,news,https://www.cbsnews.com,641,0.896551724137931,medium
+newsweek.com,Newsweek,news,https://www.newsweek.com,1175,0.8125,medium
+politico.com,Politico,news,https://www.politico.com,1954,0.8055555555555556,medium
+hindustantimes.com,Hindustan Times,news,https://www.hindustantimes.com,2590,0.875,medium
+abcnews.go.com,ABC News,news,https://www.abcnews.go.com,,0.7878787878787878,medium
+dailymail.co.uk,Daily Mail,news,https://www.dailymail.co.uk,,0.7777777777777778,medium
+dw.com,DW,news,https://www.dw.com,1300,0.9032258064516129,high
+sky.com,Sky News,news,https://www.sky.com,1838,0.9333333333333333,high
+scmp.com,SCMP,news,https://www.scmp.com,2333,0.9090909090909091,high
+france24.com,France 24,news,https://www.france24.com,2780,0.9655172413793104,high
+japantimes.co.jp,Japan Times,news,https://www.japantimes.co.jp,4099,0.9285714285714286,high
+foxnews.com,Fox News,news,https://www.foxnews.com,,1.0,high
+huffpost.com,HuffPost,news,https://www.huffpost.com,,0.8529411764705882,medium
+buzzfeed.com,BuzzFeed,news,https://www.buzzfeed.com,,0.84375,medium
+vice.com,Vice,news,https://www.vice.com,,0.9333333333333333,high
+vox.com,Vox,news,https://www.vox.com,,1.0,high
+wired.com,Wired,news,https://www.wired.com,,0.875,medium
+arstechnica.com,Ars Technica,news,https://www.arstechnica.com,,0.962962962962963,high
+techcrunch.com,TechCrunch,news,https://www.techcrunch.com,,0.9666666666666667,high
+theverge.com,The Verge,news,https://www.theverge.com,,0.9411764705882353,high

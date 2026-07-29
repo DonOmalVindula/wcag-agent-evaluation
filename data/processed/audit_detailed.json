@@ -1,0 +1,7187 @@
+[
+  {
+    "url": "https://www.booking.com",
+    "timestamp": "2026-07-28T05:15:24.493417+00:00",
+    "summary": {
+      "total_violations": 20,
+      "total_rules_violated": 1,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0312,
+      "compliance_score": 0.9688,
+      "wab_score": 0.625
+    },
+    "violations": [
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 20
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "booking.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.amazon.com",
+    "timestamp": "2026-07-28T05:15:25.245411+00:00",
+    "summary": {
+      "total_violations": 4,
+      "total_rules_violated": 4,
+      "total_rules_passed": 33,
+      "violation_rate": 0.1081,
+      "compliance_score": 0.8919,
+      "wab_score": 0.1081
+    },
+    "violations": [
+      {
+        "rule_id": "aria-allowed-attr",
+        "description": "Ensure an element's role supports its ARIA attributes",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "aria-valid-attr-value",
+        "description": "Ensure all ARIA attributes have valid values",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "list",
+        "description": "Ensure that lists are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 33,
+    "incomplete_count": 3,
+    "inapplicable_count": 29,
+    "domain": "amazon.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.etsy.com",
+    "timestamp": "2026-07-28T05:15:28.368556+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 8,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 8,
+    "incomplete_count": 0,
+    "inapplicable_count": 54,
+    "domain": "etsy.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.temu.com",
+    "timestamp": "2026-07-28T05:15:28.658767+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 2,
+      "total_rules_passed": 25,
+      "violation_rate": 0.0741,
+      "compliance_score": 0.9259,
+      "wab_score": 0.0741
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 25,
+    "incomplete_count": 1,
+    "inapplicable_count": 36,
+    "domain": "temu.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.walmart.com",
+    "timestamp": "2026-07-28T05:15:32.594614+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 21,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 21,
+    "incomplete_count": 3,
+    "inapplicable_count": 41,
+    "domain": "walmart.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.shein.com",
+    "timestamp": "2026-07-28T05:15:33.202391+00:00",
+    "summary": {
+      "total_violations": 10,
+      "total_rules_violated": 1,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0345,
+      "compliance_score": 0.9655,
+      "wab_score": 0.3448
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 10
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "shein.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.shopify.com",
+    "timestamp": "2026-07-28T05:15:34.341621+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0333,
+      "compliance_score": 0.9667,
+      "wab_score": 0.0333
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 4,
+    "inapplicable_count": 31,
+    "domain": "shopify.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.ikea.com",
+    "timestamp": "2026-07-28T05:15:36.889150+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 1,
+      "total_rules_passed": 27,
+      "violation_rate": 0.0357,
+      "compliance_score": 0.9643,
+      "wab_score": 0.0714
+    },
+    "violations": [
+      {
+        "rule_id": "list",
+        "description": "Ensure that lists are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 2
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 2,
+    "inapplicable_count": 35,
+    "domain": "ikea.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.target.com",
+    "timestamp": "2026-07-28T05:15:38.683650+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 22,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 22,
+    "incomplete_count": 3,
+    "inapplicable_count": 40,
+    "domain": "target.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.nike.com",
+    "timestamp": "2026-07-28T05:15:40.355342+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 1,
+      "total_rules_passed": 26,
+      "violation_rate": 0.037,
+      "compliance_score": 0.963,
+      "wab_score": 0.0741
+    },
+    "violations": [
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 2
+      }
+    ],
+    "passes_count": 26,
+    "incomplete_count": 2,
+    "inapplicable_count": 36,
+    "domain": "nike.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.homedepot.com",
+    "timestamp": "2026-07-28T05:15:43.310736+00:00",
+    "summary": {
+      "total_violations": 9,
+      "total_rules_violated": 3,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0909,
+      "compliance_score": 0.9091,
+      "wab_score": 0.2727
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 5
+      },
+      {
+        "rule_id": "label",
+        "description": "Ensure every form element has a label",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 1,
+    "inapplicable_count": 32,
+    "domain": "homedepot.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.airbnb.com",
+    "timestamp": "2026-07-28T05:15:47.018264+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 21,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 21,
+    "incomplete_count": 2,
+    "inapplicable_count": 41,
+    "domain": "airbnb.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.ebay.com",
+    "timestamp": "2026-07-28T05:15:50.900281+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0312,
+      "compliance_score": 0.9688,
+      "wab_score": 0.0312
+    },
+    "violations": [
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "ebay.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.hm.com",
+    "timestamp": "2026-07-28T05:15:51.092820+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "hm.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.lowes.com",
+    "timestamp": "2026-07-28T05:15:53.837142+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "lowes.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.macys.com",
+    "timestamp": "2026-07-28T05:15:56.392594+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 5,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 5,
+    "incomplete_count": 0,
+    "inapplicable_count": 57,
+    "domain": "macys.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.adidas.com",
+    "timestamp": "2026-07-28T05:15:56.909996+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 2,
+      "total_rules_passed": 5,
+      "violation_rate": 0.2857,
+      "compliance_score": 0.7143,
+      "wab_score": 0.2857
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 5,
+    "incomplete_count": 0,
+    "inapplicable_count": 56,
+    "domain": "adidas.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.bestbuy.com",
+    "timestamp": "2026-07-28T05:15:58.408330+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 15,
+      "violation_rate": 0.0625,
+      "compliance_score": 0.9375,
+      "wab_score": 0.0625
+    },
+    "violations": [
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 15,
+    "incomplete_count": 1,
+    "inapplicable_count": 47,
+    "domain": "bestbuy.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.zara.com",
+    "timestamp": "2026-07-28T05:16:00.176028+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "zara.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.sephora.com",
+    "timestamp": "2026-07-28T05:16:03.213073+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "sephora.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.gap.com",
+    "timestamp": "2026-07-28T05:16:03.580752+00:00",
+    "summary": {
+      "total_violations": 8,
+      "total_rules_violated": 3,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0938,
+      "compliance_score": 0.9062,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 6
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 3,
+    "inapplicable_count": 32,
+    "domain": "gap.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.asos.com",
+    "timestamp": "2026-07-28T05:16:04.675022+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "asos.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.overstock.com",
+    "timestamp": "2026-07-28T05:16:12.947070+00:00",
+    "summary": {
+      "total_violations": 4,
+      "total_rules_violated": 4,
+      "total_rules_passed": 21,
+      "violation_rate": 0.16,
+      "compliance_score": 0.84,
+      "wab_score": 0.16
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 21,
+    "incomplete_count": 2,
+    "inapplicable_count": 38,
+    "domain": "overstock.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.wish.com",
+    "timestamp": "2026-07-28T05:16:14.579346+00:00",
+    "summary": {
+      "total_violations": 18,
+      "total_rules_violated": 4,
+      "total_rules_passed": 29,
+      "violation_rate": 0.1212,
+      "compliance_score": 0.8788,
+      "wab_score": 0.5455
+    },
+    "violations": [
+      {
+        "rule_id": "aria-progressbar-name",
+        "description": "Ensure every ARIA progressbar node has an accessible name",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "aria-toggle-field-name",
+        "description": "Ensure every ARIA toggle field has an accessible name",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 12
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "wish.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.newegg.com",
+    "timestamp": "2026-07-28T05:16:14.894615+00:00",
+    "summary": {
+      "total_violations": 19,
+      "total_rules_violated": 5,
+      "total_rules_passed": 31,
+      "violation_rate": 0.1389,
+      "compliance_score": 0.8611,
+      "wab_score": 0.5278
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "aria-prohibited-attr",
+        "description": "Ensure ARIA attributes are not prohibited for an element's role",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 14
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "nested-interactive",
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 3,
+    "inapplicable_count": 30,
+    "domain": "newegg.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.dhgate.com",
+    "timestamp": "2026-07-28T05:16:16.223895+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "dhgate.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.expedia.com",
+    "timestamp": "2026-07-28T05:16:20.010610+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 15,
+      "violation_rate": 0.0625,
+      "compliance_score": 0.9375,
+      "wab_score": 0.0625
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 15,
+    "incomplete_count": 0,
+    "inapplicable_count": 46,
+    "domain": "expedia.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.uniqlo.com",
+    "timestamp": "2026-07-28T05:16:23.026002+00:00",
+    "summary": {
+      "total_violations": 27,
+      "total_rules_violated": 2,
+      "total_rules_passed": 27,
+      "violation_rate": 0.069,
+      "compliance_score": 0.931,
+      "wab_score": 0.931
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 25
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 3,
+    "inapplicable_count": 33,
+    "domain": "uniqlo.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.aliexpress.com",
+    "timestamp": "2026-07-28T05:16:23.667209+00:00",
+    "summary": {
+      "total_violations": 3,
+      "total_rules_violated": 3,
+      "total_rules_passed": 2,
+      "violation_rate": 0.6,
+      "compliance_score": 0.4,
+      "wab_score": 0.6
+    },
+    "violations": [
+      {
+        "rule_id": "document-title",
+        "description": "Ensure each HTML document contains a non-empty <title> element",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag242"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 2,
+    "incomplete_count": 0,
+    "inapplicable_count": 57,
+    "domain": "aliexpress.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.nordstrom.com",
+    "timestamp": "2026-07-28T05:16:29.352931+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 10,
+      "violation_rate": 0.0909,
+      "compliance_score": 0.9091,
+      "wab_score": 0.0909
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 10,
+    "incomplete_count": 0,
+    "inapplicable_count": 52,
+    "domain": "nordstrom.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.chewy.com",
+    "timestamp": "2026-07-28T05:16:29.364706+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 24,
+      "violation_rate": 0.04,
+      "compliance_score": 0.96,
+      "wab_score": 0.04
+    },
+    "violations": [
+      {
+        "rule_id": "svg-img-alt",
+        "description": "Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 24,
+    "incomplete_count": 0,
+    "inapplicable_count": 38,
+    "domain": "chewy.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.trivago.com",
+    "timestamp": "2026-07-28T05:16:32.592266+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 13,
+      "violation_rate": 0.0714,
+      "compliance_score": 0.9286,
+      "wab_score": 0.0714
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 13,
+    "incomplete_count": 0,
+    "inapplicable_count": 48,
+    "domain": "trivago.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.banggood.com",
+    "timestamp": "2026-07-28T05:16:35.325780+00:00",
+    "summary": {
+      "total_violations": 43,
+      "total_rules_violated": 6,
+      "total_rules_passed": 19,
+      "violation_rate": 0.24,
+      "compliance_score": 0.76,
+      "wab_score": 1.72
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 16
+      },
+      {
+        "rule_id": "definition-list",
+        "description": "Ensure <dl> elements are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "label",
+        "description": "Ensure every form element has a label",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 22
+      },
+      {
+        "rule_id": "listitem",
+        "description": "Ensure <li> elements are used semantically",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 19,
+    "incomplete_count": 1,
+    "inapplicable_count": 42,
+    "domain": "banggood.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.6pm.com",
+    "timestamp": "2026-07-28T05:16:37.579430+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 31,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "6pm.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.jcpenney.com",
+    "timestamp": "2026-07-28T05:16:38.333787+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "jcpenney.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.zappos.com",
+    "timestamp": "2026-07-28T05:16:39.904666+00:00",
+    "summary": {
+      "total_violations": 31,
+      "total_rules_violated": 4,
+      "total_rules_passed": 29,
+      "violation_rate": 0.1212,
+      "compliance_score": 0.8788,
+      "wab_score": 0.9394
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 24
+      },
+      {
+        "rule_id": "aria-prohibited-attr",
+        "description": "Ensure ARIA attributes are not prohibited for an element's role",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 5
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 3,
+    "inapplicable_count": 32,
+    "domain": "zappos.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.kohls.com",
+    "timestamp": "2026-07-28T05:16:40.563496+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "kohls.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.forever21.com",
+    "timestamp": "2026-07-28T05:16:44.173214+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 32,
+      "violation_rate": 0.0303,
+      "compliance_score": 0.9697,
+      "wab_score": 0.0303
+    },
+    "violations": [
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 32,
+    "incomplete_count": 1,
+    "inapplicable_count": 30,
+    "domain": "forever21.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.urbanoutfitters.com",
+    "timestamp": "2026-07-28T05:16:44.181495+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 8,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 8,
+    "incomplete_count": 0,
+    "inapplicable_count": 54,
+    "domain": "urbanoutfitters.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.anthropologie.com",
+    "timestamp": "2026-07-28T05:16:44.626858+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 8,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 8,
+    "incomplete_count": 0,
+    "inapplicable_count": 54,
+    "domain": "anthropologie.com",
+    "sector": "ecommerce"
+  },
+  {
+    "url": "https://www.harvard.edu",
+    "timestamp": "2026-07-28T05:16:48.519662+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 1,
+      "total_rules_passed": 26,
+      "violation_rate": 0.037,
+      "compliance_score": 0.963,
+      "wab_score": 0.0741
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 2
+      }
+    ],
+    "passes_count": 26,
+    "incomplete_count": 1,
+    "inapplicable_count": 36,
+    "domain": "harvard.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.mit.edu",
+    "timestamp": "2026-07-28T05:16:48.953412+00:00",
+    "summary": {
+      "total_violations": 9,
+      "total_rules_violated": 2,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0667,
+      "compliance_score": 0.9333,
+      "wab_score": 0.3
+    },
+    "violations": [
+      {
+        "rule_id": "aria-allowed-attr",
+        "description": "Ensure an element's role supports its ARIA attributes",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 8
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 2,
+    "inapplicable_count": 34,
+    "domain": "mit.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.stanford.edu",
+    "timestamp": "2026-07-28T05:16:49.220139+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 32,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 32,
+    "incomplete_count": 1,
+    "inapplicable_count": 30,
+    "domain": "stanford.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.princeton.edu",
+    "timestamp": "2026-07-28T05:16:52.927786+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 26,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 26,
+    "incomplete_count": 1,
+    "inapplicable_count": 36,
+    "domain": "princeton.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.columbia.edu",
+    "timestamp": "2026-07-28T05:16:54.816557+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 2,
+      "total_rules_passed": 33,
+      "violation_rate": 0.0571,
+      "compliance_score": 0.9429,
+      "wab_score": 0.0571
+    },
+    "violations": [
+      {
+        "rule_id": "nested-interactive",
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "role-img-alt",
+        "description": "Ensure [role=\"img\"] elements have alternative text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 33,
+    "incomplete_count": 1,
+    "inapplicable_count": 29,
+    "domain": "columbia.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.berkeley.edu",
+    "timestamp": "2026-07-28T05:16:55.577915+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "berkeley.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.ox.ac.uk",
+    "timestamp": "2026-07-28T05:16:58.217992+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 31,
+    "incomplete_count": 2,
+    "inapplicable_count": 30,
+    "domain": "ox.ac.uk",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.yale.edu",
+    "timestamp": "2026-07-28T05:16:59.153206+00:00",
+    "summary": {
+      "total_violations": 5,
+      "total_rules_violated": 2,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0667,
+      "compliance_score": 0.9333,
+      "wab_score": 0.1667
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 2,
+    "inapplicable_count": 33,
+    "domain": "yale.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.coursera.org",
+    "timestamp": "2026-07-28T05:17:03.024089+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 34,
+      "violation_rate": 0.0286,
+      "compliance_score": 0.9714,
+      "wab_score": 0.0286
+    },
+    "violations": [
+      {
+        "rule_id": "aria-valid-attr-value",
+        "description": "Ensure all ARIA attributes have valid values",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 34,
+    "incomplete_count": 2,
+    "inapplicable_count": 28,
+    "domain": "coursera.org",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.umn.edu",
+    "timestamp": "2026-07-28T05:17:05.963050+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 27,
+      "violation_rate": 0.0357,
+      "compliance_score": 0.9643,
+      "wab_score": 0.0357
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-attr",
+        "description": "Ensure elements with ARIA roles have all required ARIA attributes",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 1,
+    "inapplicable_count": 35,
+    "domain": "umn.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.ucla.edu",
+    "timestamp": "2026-07-28T05:17:06.185216+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 26,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 26,
+    "incomplete_count": 4,
+    "inapplicable_count": 35,
+    "domain": "ucla.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.duolingo.com",
+    "timestamp": "2026-07-28T05:17:12.118004+00:00",
+    "summary": {
+      "total_violations": 136,
+      "total_rules_violated": 3,
+      "total_rules_passed": 21,
+      "violation_rate": 0.125,
+      "compliance_score": 0.875,
+      "wab_score": 5.6667
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 93
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 42
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 21,
+    "incomplete_count": 1,
+    "inapplicable_count": 40,
+    "domain": "duolingo.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.cam.ac.uk",
+    "timestamp": "2026-07-28T05:17:12.401393+00:00",
+    "summary": {
+      "total_violations": 7,
+      "total_rules_violated": 1,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0345,
+      "compliance_score": 0.9655,
+      "wab_score": 0.2414
+    },
+    "violations": [
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 7
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 2,
+    "inapplicable_count": 34,
+    "domain": "cam.ac.uk",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.cmu.edu",
+    "timestamp": "2026-07-28T05:17:15.644380+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 2,
+      "total_rules_passed": 26,
+      "violation_rate": 0.0714,
+      "compliance_score": 0.9286,
+      "wab_score": 0.0714
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 26,
+    "incomplete_count": 4,
+    "inapplicable_count": 34,
+    "domain": "cmu.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.ted.com",
+    "timestamp": "2026-07-28T05:17:16.161757+00:00",
+    "summary": {
+      "total_violations": 24,
+      "total_rules_violated": 6,
+      "total_rules_passed": 29,
+      "violation_rate": 0.1714,
+      "compliance_score": 0.8286,
+      "wab_score": 0.6857
+    },
+    "violations": [
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 18
+      },
+      {
+        "rule_id": "label",
+        "description": "Ensure every form element has a label",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 4,
+    "inapplicable_count": 31,
+    "domain": "ted.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.brilliant.org",
+    "timestamp": "2026-07-28T05:17:17.905695+00:00",
+    "summary": {
+      "total_violations": 15,
+      "total_rules_violated": 3,
+      "total_rules_passed": 27,
+      "violation_rate": 0.1,
+      "compliance_score": 0.9,
+      "wab_score": 0.5
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 11
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 3,
+    "inapplicable_count": 33,
+    "domain": "brilliant.org",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.futurelearn.com",
+    "timestamp": "2026-07-28T05:17:21.012682+00:00",
+    "summary": {
+      "total_violations": 39,
+      "total_rules_violated": 5,
+      "total_rules_passed": 32,
+      "violation_rate": 0.1351,
+      "compliance_score": 0.8649,
+      "wab_score": 1.0541
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-parent",
+        "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 7
+      },
+      {
+        "rule_id": "link-in-text-block",
+        "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag141"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "nested-interactive",
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 16
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 13
+      }
+    ],
+    "passes_count": 32,
+    "incomplete_count": 3,
+    "inapplicable_count": 29,
+    "domain": "futurelearn.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.udemy.com",
+    "timestamp": "2026-07-28T05:17:21.547619+00:00",
+    "summary": {
+      "total_violations": 17,
+      "total_rules_violated": 2,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0606,
+      "compliance_score": 0.9394,
+      "wab_score": 0.5152
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 14
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 3,
+    "inapplicable_count": 31,
+    "domain": "udemy.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.nus.edu.sg",
+    "timestamp": "2026-07-28T05:17:24.352351+00:00",
+    "summary": {
+      "total_violations": 41,
+      "total_rules_violated": 6,
+      "total_rules_passed": 24,
+      "violation_rate": 0.2,
+      "compliance_score": 0.8,
+      "wab_score": 1.3667
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 15
+      },
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 22
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 24,
+    "incomplete_count": 1,
+    "inapplicable_count": 36,
+    "domain": "nus.edu.sg",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.khanacademy.org",
+    "timestamp": "2026-07-28T05:17:32.227906+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 6,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 6,
+    "incomplete_count": 0,
+    "inapplicable_count": 56,
+    "domain": "khanacademy.org",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.unimelb.edu.au",
+    "timestamp": "2026-07-28T05:17:35.299859+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0312,
+      "compliance_score": 0.9688,
+      "wab_score": 0.0312
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 3,
+    "inapplicable_count": 30,
+    "domain": "unimelb.edu.au",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.nyu.edu",
+    "timestamp": "2026-07-28T05:17:37.071050+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 3,
+    "inapplicable_count": 34,
+    "domain": "nyu.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.ucl.ac.uk",
+    "timestamp": "2026-07-28T05:17:38.182438+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 13,
+      "violation_rate": 0.0714,
+      "compliance_score": 0.9286,
+      "wab_score": 0.0714
+    },
+    "violations": [
+      {
+        "rule_id": "meta-refresh",
+        "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag221"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 13,
+    "incomplete_count": 0,
+    "inapplicable_count": 48,
+    "domain": "ucl.ac.uk",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.edx.org",
+    "timestamp": "2026-07-28T05:17:43.828455+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 2,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0606,
+      "compliance_score": 0.9394,
+      "wab_score": 0.0606
+    },
+    "violations": [
+      {
+        "rule_id": "aria-valid-attr-value",
+        "description": "Ensure all ARIA attributes have valid values",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 3,
+    "inapplicable_count": 31,
+    "domain": "edx.org",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.ethz.ch",
+    "timestamp": "2026-07-28T05:17:45.287689+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0323,
+      "compliance_score": 0.9677,
+      "wab_score": 0.0323
+    },
+    "violations": [
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 1,
+    "inapplicable_count": 32,
+    "domain": "ethz.ch",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.gatech.edu",
+    "timestamp": "2026-07-28T05:17:48.018811+00:00",
+    "summary": {
+      "total_violations": 3,
+      "total_rules_violated": 2,
+      "total_rules_passed": 27,
+      "violation_rate": 0.069,
+      "compliance_score": 0.931,
+      "wab_score": 0.1034
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 5,
+    "inapplicable_count": 34,
+    "domain": "gatech.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.imperial.ac.uk",
+    "timestamp": "2026-07-28T05:17:50.917194+00:00",
+    "summary": {
+      "total_violations": 16,
+      "total_rules_violated": 1,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0323,
+      "compliance_score": 0.9677,
+      "wab_score": 0.5161
+    },
+    "violations": [
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 16
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 2,
+    "inapplicable_count": 32,
+    "domain": "imperial.ac.uk",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.westminster.ac.uk",
+    "timestamp": "2026-07-28T05:17:52.302103+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 30,
+    "incomplete_count": 2,
+    "inapplicable_count": 32,
+    "domain": "westminster.ac.uk",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.codecademy.com",
+    "timestamp": "2026-07-28T05:17:55.583309+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 30,
+    "incomplete_count": 3,
+    "inapplicable_count": 32,
+    "domain": "codecademy.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.skillshare.com",
+    "timestamp": "2026-07-28T05:17:56.781356+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 2,
+      "total_rules_passed": 27,
+      "violation_rate": 0.069,
+      "compliance_score": 0.931,
+      "wab_score": 0.069
+    },
+    "violations": [
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-in-text-block",
+        "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag141"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "skillshare.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.udacity.com",
+    "timestamp": "2026-07-28T05:18:00.914863+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 31,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "udacity.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.scholastic.com",
+    "timestamp": "2026-07-28T05:18:03.933876+00:00",
+    "summary": {
+      "total_violations": 18,
+      "total_rules_violated": 4,
+      "total_rules_passed": 31,
+      "violation_rate": 0.1143,
+      "compliance_score": 0.8857,
+      "wab_score": 0.5143
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "frame-title",
+        "description": "Ensure <iframe> and <frame> elements have an accessible name",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 10
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 6
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 3,
+    "inapplicable_count": 31,
+    "domain": "scholastic.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.pluralsight.com",
+    "timestamp": "2026-07-28T05:18:06.981713+00:00",
+    "summary": {
+      "total_violations": 9,
+      "total_rules_violated": 2,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0625,
+      "compliance_score": 0.9375,
+      "wab_score": 0.2812
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 6
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 1,
+    "inapplicable_count": 32,
+    "domain": "pluralsight.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.freecodecamp.org",
+    "timestamp": "2026-07-28T05:18:08.956048+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 11,
+      "violation_rate": 0.0833,
+      "compliance_score": 0.9167,
+      "wab_score": 0.0833
+    },
+    "violations": [
+      {
+        "rule_id": "document-title",
+        "description": "Ensure each HTML document contains a non-empty <title> element",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag242"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 11,
+    "incomplete_count": 0,
+    "inapplicable_count": 50,
+    "domain": "freecodecamp.org",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.w3schools.com",
+    "timestamp": "2026-07-28T05:18:12.500284+00:00",
+    "summary": {
+      "total_violations": 71,
+      "total_rules_violated": 2,
+      "total_rules_passed": 33,
+      "violation_rate": 0.0571,
+      "compliance_score": 0.9429,
+      "wab_score": 2.0286
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 20
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 51
+      }
+    ],
+    "passes_count": 33,
+    "incomplete_count": 1,
+    "inapplicable_count": 29,
+    "domain": "w3schools.com",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.open.edu",
+    "timestamp": "2026-07-28T05:18:13.188709+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 13,
+      "violation_rate": 0.0714,
+      "compliance_score": 0.9286,
+      "wab_score": 0.0714
+    },
+    "violations": [
+      {
+        "rule_id": "meta-refresh",
+        "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag221"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 13,
+    "incomplete_count": 0,
+    "inapplicable_count": 48,
+    "domain": "open.edu",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.kcl.ac.uk",
+    "timestamp": "2026-07-28T05:18:18.157937+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0312,
+      "compliance_score": 0.9688,
+      "wab_score": 0.0312
+    },
+    "violations": [
+      {
+        "rule_id": "aria-valid-attr",
+        "description": "Ensure attributes that begin with aria- are valid ARIA attributes",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "kcl.ac.uk",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.lse.ac.uk",
+    "timestamp": "2026-07-28T05:18:18.868016+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 27,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 27,
+    "incomplete_count": 0,
+    "inapplicable_count": 35,
+    "domain": "lse.ac.uk",
+    "sector": "education"
+  },
+  {
+    "url": "https://www.nasa.gov",
+    "timestamp": "2026-07-28T05:18:26.798779+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "nasa.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.cdc.gov",
+    "timestamp": "2026-07-28T05:18:33.211473+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 26,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 26,
+    "incomplete_count": 3,
+    "inapplicable_count": 36,
+    "domain": "cdc.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.noaa.gov",
+    "timestamp": "2026-07-28T05:18:33.945803+00:00",
+    "summary": {
+      "total_violations": 3,
+      "total_rules_violated": 1,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0333,
+      "compliance_score": 0.9667,
+      "wab_score": 0.1
+    },
+    "violations": [
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 1,
+    "inapplicable_count": 33,
+    "domain": "noaa.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.europa.eu",
+    "timestamp": "2026-07-28T05:18:35.470567+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "europa.eu",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.fda.gov",
+    "timestamp": "2026-07-28T05:18:37.712188+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "fda.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.worldbank.org",
+    "timestamp": "2026-07-28T05:18:38.702587+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 12,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 12,
+    "incomplete_count": 0,
+    "inapplicable_count": 50,
+    "domain": "worldbank.org",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.irs.gov",
+    "timestamp": "2026-07-28T05:18:39.645514+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 33,
+      "violation_rate": 0.0294,
+      "compliance_score": 0.9706,
+      "wab_score": 0.0294
+    },
+    "violations": [
+      {
+        "rule_id": "aria-allowed-attr",
+        "description": "Ensure an element's role supports its ARIA attributes",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 33,
+    "incomplete_count": 2,
+    "inapplicable_count": 29,
+    "domain": "irs.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.justice.gov",
+    "timestamp": "2026-07-28T05:18:41.869039+00:00",
+    "summary": {
+      "total_violations": 4,
+      "total_rules_violated": 2,
+      "total_rules_passed": 33,
+      "violation_rate": 0.0571,
+      "compliance_score": 0.9429,
+      "wab_score": 0.1143
+    },
+    "violations": [
+      {
+        "rule_id": "list",
+        "description": "Ensure that lists are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "listitem",
+        "description": "Ensure <li> elements are used semantically",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 33,
+    "incomplete_count": 1,
+    "inapplicable_count": 29,
+    "domain": "justice.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.state.gov",
+    "timestamp": "2026-07-28T05:18:42.261571+00:00",
+    "summary": {
+      "total_violations": 7,
+      "total_rules_violated": 2,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0625,
+      "compliance_score": 0.9375,
+      "wab_score": 0.2188
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "svg-img-alt",
+        "description": "Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 1,
+    "inapplicable_count": 32,
+    "domain": "state.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.epa.gov",
+    "timestamp": "2026-07-28T05:18:43.855226+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 29,
+    "incomplete_count": 2,
+    "inapplicable_count": 33,
+    "domain": "epa.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.whitehouse.gov",
+    "timestamp": "2026-07-28T05:18:46.516769+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 27,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 27,
+    "incomplete_count": 3,
+    "inapplicable_count": 34,
+    "domain": "whitehouse.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.oecd.org",
+    "timestamp": "2026-07-28T05:18:47.775640+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 30,
+    "incomplete_count": 3,
+    "inapplicable_count": 32,
+    "domain": "oecd.org",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.un.org",
+    "timestamp": "2026-07-28T05:18:51.415694+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 2,
+      "total_rules_passed": 13,
+      "violation_rate": 0.1333,
+      "compliance_score": 0.8667,
+      "wab_score": 0.1333
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "list",
+        "description": "Ensure that lists are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 13,
+    "incomplete_count": 2,
+    "inapplicable_count": 45,
+    "domain": "un.org",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.senate.gov",
+    "timestamp": "2026-07-28T05:18:51.844410+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "senate.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.defense.gov",
+    "timestamp": "2026-07-28T05:18:54.984900+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "defense.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.canada.ca",
+    "timestamp": "2026-07-28T05:18:55.617964+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 12,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 12,
+    "incomplete_count": 0,
+    "inapplicable_count": 50,
+    "domain": "canada.ca",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.australia.gov.au",
+    "timestamp": "2026-07-28T05:18:55.769436+00:00",
+    "summary": {
+      "total_violations": 6,
+      "total_rules_violated": 3,
+      "total_rules_passed": 25,
+      "violation_rate": 0.1071,
+      "compliance_score": 0.8929,
+      "wab_score": 0.2143
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "aria-required-parent",
+        "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 25,
+    "incomplete_count": 1,
+    "inapplicable_count": 36,
+    "domain": "australia.gov.au",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.india.gov.in",
+    "timestamp": "2026-07-28T05:18:58.140547+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "india.gov.in",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.sec.gov",
+    "timestamp": "2026-07-28T05:18:58.756431+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 6,
+      "violation_rate": 0.1429,
+      "compliance_score": 0.8571,
+      "wab_score": 0.1429
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 6,
+    "incomplete_count": 1,
+    "inapplicable_count": 55,
+    "domain": "sec.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.hhs.gov",
+    "timestamp": "2026-07-28T05:19:01.421219+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "hhs.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.dot.gov",
+    "timestamp": "2026-07-28T05:19:01.686929+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "dot.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.congress.gov",
+    "timestamp": "2026-07-28T05:19:04.372910+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 15,
+      "violation_rate": 0.0625,
+      "compliance_score": 0.9375,
+      "wab_score": 0.0625
+    },
+    "violations": [
+      {
+        "rule_id": "meta-refresh",
+        "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag221"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 15,
+    "incomplete_count": 0,
+    "inapplicable_count": 46,
+    "domain": "congress.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.fbi.gov",
+    "timestamp": "2026-07-28T05:19:09.292043+00:00",
+    "summary": {
+      "total_violations": 17,
+      "total_rules_violated": 5,
+      "total_rules_passed": 28,
+      "violation_rate": 0.1515,
+      "compliance_score": 0.8485,
+      "wab_score": 0.5152
+    },
+    "violations": [
+      {
+        "rule_id": "aria-prohibited-attr",
+        "description": "Ensure ARIA attributes are not prohibited for an element's role",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 10
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 4
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "fbi.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.energy.gov",
+    "timestamp": "2026-07-28T05:19:11.804504+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 32,
+      "violation_rate": 0.0303,
+      "compliance_score": 0.9697,
+      "wab_score": 0.0303
+    },
+    "violations": [
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 32,
+    "incomplete_count": 1,
+    "inapplicable_count": 30,
+    "domain": "energy.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.ssa.gov",
+    "timestamp": "2026-07-28T05:19:14.620641+00:00",
+    "summary": {
+      "total_violations": 10,
+      "total_rules_violated": 2,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0645,
+      "compliance_score": 0.9355,
+      "wab_score": 0.3226
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 8
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 2
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 3,
+    "inapplicable_count": 33,
+    "domain": "ssa.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.usa.gov",
+    "timestamp": "2026-07-28T05:19:17.645964+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "usa.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.gov.uk",
+    "timestamp": "2026-07-28T05:19:20.655227+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 31,
+    "incomplete_count": 0,
+    "inapplicable_count": 31,
+    "domain": "gov.uk",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.data.gov",
+    "timestamp": "2026-07-28T05:19:25.542089+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 2,
+    "inapplicable_count": 34,
+    "domain": "data.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.treasury.gov",
+    "timestamp": "2026-07-28T05:19:28.140268+00:00",
+    "summary": {
+      "total_violations": 3,
+      "total_rules_violated": 2,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0625,
+      "compliance_score": 0.9375,
+      "wab_score": 0.0938
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "nested-interactive",
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 2,
+    "inapplicable_count": 32,
+    "domain": "treasury.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.parliament.uk",
+    "timestamp": "2026-07-28T05:19:30.493412+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 31,
+    "incomplete_count": 1,
+    "inapplicable_count": 31,
+    "domain": "parliament.uk",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.govt.nz",
+    "timestamp": "2026-07-28T05:19:34.558686+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "govt.nz",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.ec.europa.eu",
+    "timestamp": "2026-07-28T05:19:36.974477+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 29,
+    "incomplete_count": 1,
+    "inapplicable_count": 33,
+    "domain": "ec.europa.eu",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.dol.gov",
+    "timestamp": "2026-07-28T05:19:38.905658+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 30,
+    "incomplete_count": 1,
+    "inapplicable_count": 32,
+    "domain": "dol.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.va.gov",
+    "timestamp": "2026-07-28T05:19:42.058914+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 26,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 26,
+    "incomplete_count": 1,
+    "inapplicable_count": 36,
+    "domain": "va.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.ed.gov",
+    "timestamp": "2026-07-28T05:19:42.834053+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 32,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 32,
+    "incomplete_count": 4,
+    "inapplicable_count": 30,
+    "domain": "ed.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.fema.gov",
+    "timestamp": "2026-07-28T05:19:43.108870+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 32,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 32,
+    "incomplete_count": 1,
+    "inapplicable_count": 30,
+    "domain": "fema.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.gsa.gov",
+    "timestamp": "2026-07-28T05:19:46.619515+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 30,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "gsa.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.sba.gov",
+    "timestamp": "2026-07-28T05:19:46.682387+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "sba.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.uscis.gov",
+    "timestamp": "2026-07-28T05:19:50.929969+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 35,
+      "violation_rate": 0.0278,
+      "compliance_score": 0.9722,
+      "wab_score": 0.0278
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 35,
+    "incomplete_count": 2,
+    "inapplicable_count": 26,
+    "domain": "uscis.gov",
+    "sector": "government"
+  },
+  {
+    "url": "https://www.nih.gov",
+    "timestamp": "2026-07-28T05:19:51.940625+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 13,
+      "violation_rate": 0.0714,
+      "compliance_score": 0.9286,
+      "wab_score": 0.0714
+    },
+    "violations": [
+      {
+        "rule_id": "meta-refresh",
+        "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag221"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 13,
+    "incomplete_count": 0,
+    "inapplicable_count": 48,
+    "domain": "nih.gov",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.who.int",
+    "timestamp": "2026-07-28T05:19:51.945729+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 31,
+    "incomplete_count": 1,
+    "inapplicable_count": 31,
+    "domain": "who.int",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.mayoclinic.org",
+    "timestamp": "2026-07-28T05:19:54.043087+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "mayoclinic.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.healthline.com",
+    "timestamp": "2026-07-28T05:19:55.958671+00:00",
+    "summary": {
+      "total_violations": 7,
+      "total_rules_violated": 2,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0606,
+      "compliance_score": 0.9394,
+      "wab_score": 0.2121
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 4
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "healthline.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.clevelandclinic.org",
+    "timestamp": "2026-07-28T05:19:56.771017+00:00",
+    "summary": {
+      "total_violations": 5,
+      "total_rules_violated": 3,
+      "total_rules_passed": 27,
+      "violation_rate": 0.1,
+      "compliance_score": 0.9,
+      "wab_score": 0.1667
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-in-text-block",
+        "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag141"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 2,
+    "inapplicable_count": 34,
+    "domain": "clevelandclinic.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.medicalnewstoday.com",
+    "timestamp": "2026-07-28T05:19:57.661604+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 30,
+    "incomplete_count": 1,
+    "inapplicable_count": 32,
+    "domain": "medicalnewstoday.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.medlineplus.gov",
+    "timestamp": "2026-07-28T05:20:00.067349+00:00",
+    "summary": {
+      "total_violations": 6,
+      "total_rules_violated": 1,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0333,
+      "compliance_score": 0.9667,
+      "wab_score": 0.2
+    },
+    "violations": [
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 6
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 1,
+    "inapplicable_count": 33,
+    "domain": "medlineplus.gov",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.hopkinsmedicine.org",
+    "timestamp": "2026-07-28T05:20:01.793371+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 29,
+    "incomplete_count": 1,
+    "inapplicable_count": 33,
+    "domain": "hopkinsmedicine.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.cancer.org",
+    "timestamp": "2026-07-28T05:20:02.696868+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 32,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 32,
+    "incomplete_count": 2,
+    "inapplicable_count": 29,
+    "domain": "cancer.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.ama-assn.org",
+    "timestamp": "2026-07-28T05:20:05.474409+00:00",
+    "summary": {
+      "total_violations": 14,
+      "total_rules_violated": 1,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0323,
+      "compliance_score": 0.9677,
+      "wab_score": 0.4516
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 14
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 4,
+    "inapplicable_count": 32,
+    "domain": "ama-assn.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.everydayhealth.com",
+    "timestamp": "2026-07-28T05:20:06.417591+00:00",
+    "summary": {
+      "total_violations": 4,
+      "total_rules_violated": 2,
+      "total_rules_passed": 33,
+      "violation_rate": 0.0571,
+      "compliance_score": 0.9429,
+      "wab_score": 0.1143
+    },
+    "violations": [
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 33,
+    "incomplete_count": 5,
+    "inapplicable_count": 27,
+    "domain": "everydayhealth.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.nhs.uk",
+    "timestamp": "2026-07-28T05:20:06.993913+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 29,
+    "incomplete_count": 1,
+    "inapplicable_count": 33,
+    "domain": "nhs.uk",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.patient.info",
+    "timestamp": "2026-07-28T05:20:09.621441+00:00",
+    "summary": {
+      "total_violations": 15,
+      "total_rules_violated": 1,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0345,
+      "compliance_score": 0.9655,
+      "wab_score": 0.5172
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 15
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 0,
+    "inapplicable_count": 34,
+    "domain": "patient.info",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.webmd.com",
+    "timestamp": "2026-07-28T05:20:11.231555+00:00",
+    "summary": {
+      "total_violations": 122,
+      "total_rules_violated": 7,
+      "total_rules_passed": 30,
+      "violation_rate": 0.1892,
+      "compliance_score": 0.8108,
+      "wab_score": 3.2973
+    },
+    "violations": [
+      {
+        "rule_id": "aria-allowed-attr",
+        "description": "Ensure an element's role supports its ARIA attributes",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 7
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 10
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "list",
+        "description": "Ensure that lists are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 9
+      },
+      {
+        "rule_id": "listitem",
+        "description": "Ensure <li> elements are used semantically",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 86
+      },
+      {
+        "rule_id": "nested-interactive",
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 4,
+    "inapplicable_count": 31,
+    "domain": "webmd.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.medscape.com",
+    "timestamp": "2026-07-28T05:20:13.924360+00:00",
+    "summary": {
+      "total_violations": 27,
+      "total_rules_violated": 6,
+      "total_rules_passed": 23,
+      "violation_rate": 0.2069,
+      "compliance_score": 0.7931,
+      "wab_score": 0.931
+    },
+    "violations": [
+      {
+        "rule_id": "aria-allowed-attr",
+        "description": "Ensure an element's role supports its ARIA attributes",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 9
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 10
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 23,
+    "incomplete_count": 2,
+    "inapplicable_count": 38,
+    "domain": "medscape.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.drugs.com",
+    "timestamp": "2026-07-28T05:20:14.244059+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "drugs.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.psychologytoday.com",
+    "timestamp": "2026-07-28T05:20:14.692797+00:00",
+    "summary": {
+      "total_violations": 254,
+      "total_rules_violated": 4,
+      "total_rules_passed": 29,
+      "violation_rate": 0.1212,
+      "compliance_score": 0.8788,
+      "wab_score": 7.697
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 184
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 36
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 33
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 2,
+    "inapplicable_count": 32,
+    "domain": "psychologytoday.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.samhsa.gov",
+    "timestamp": "2026-07-28T05:20:18.428270+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "samhsa.gov",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.mentalhealth.gov",
+    "timestamp": "2026-07-28T05:20:18.537016+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "mentalhealth.gov",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.lung.org",
+    "timestamp": "2026-07-28T05:20:20.693778+00:00",
+    "summary": {
+      "total_violations": 7,
+      "total_rules_violated": 4,
+      "total_rules_passed": 31,
+      "violation_rate": 0.1143,
+      "compliance_score": 0.8857,
+      "wab_score": 0.2
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-in-text-block",
+        "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag141"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 1,
+    "inapplicable_count": 30,
+    "domain": "lung.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.rxlist.com",
+    "timestamp": "2026-07-28T05:20:23.578718+00:00",
+    "summary": {
+      "total_violations": 42,
+      "total_rules_violated": 3,
+      "total_rules_passed": 16,
+      "violation_rate": 0.1579,
+      "compliance_score": 0.8421,
+      "wab_score": 2.2105
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 38
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "link-in-text-block",
+        "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag141"
+        ],
+        "count": 2
+      }
+    ],
+    "passes_count": 16,
+    "incomplete_count": 1,
+    "inapplicable_count": 45,
+    "domain": "rxlist.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.aetna.com",
+    "timestamp": "2026-07-28T05:20:23.968226+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "aetna.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.kaiser.com",
+    "timestamp": "2026-07-28T05:20:25.036634+00:00",
+    "summary": {
+      "total_violations": 12,
+      "total_rules_violated": 5,
+      "total_rules_passed": 18,
+      "violation_rate": 0.2174,
+      "compliance_score": 0.7826,
+      "wab_score": 0.5217
+    },
+    "violations": [
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "frame-title",
+        "description": "Ensure <iframe> and <frame> elements have an accessible name",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 6
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 18,
+    "incomplete_count": 1,
+    "inapplicable_count": 42,
+    "domain": "kaiser.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.health.com",
+    "timestamp": "2026-07-28T05:20:27.764036+00:00",
+    "summary": {
+      "total_violations": 5,
+      "total_rules_violated": 2,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0645,
+      "compliance_score": 0.9355,
+      "wab_score": 0.1613
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 4
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 2,
+    "inapplicable_count": 33,
+    "domain": "health.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.kff.org",
+    "timestamp": "2026-07-28T05:20:28.253608+00:00",
+    "summary": {
+      "total_violations": 21,
+      "total_rules_violated": 4,
+      "total_rules_passed": 27,
+      "violation_rate": 0.129,
+      "compliance_score": 0.871,
+      "wab_score": 0.6774
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 15
+      },
+      {
+        "rule_id": "listitem",
+        "description": "Ensure <li> elements are used semantically",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 4
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 4,
+    "inapplicable_count": 33,
+    "domain": "kff.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.diabetes.org",
+    "timestamp": "2026-07-28T05:20:30.916031+00:00",
+    "summary": {
+      "total_violations": 5,
+      "total_rules_violated": 2,
+      "total_rules_passed": 37,
+      "violation_rate": 0.0513,
+      "compliance_score": 0.9487,
+      "wab_score": 0.1282
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "select-name",
+        "description": "Ensure select element has an accessible name",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 37,
+    "incomplete_count": 2,
+    "inapplicable_count": 24,
+    "domain": "diabetes.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.mountsinai.org",
+    "timestamp": "2026-07-28T05:20:34.525164+00:00",
+    "summary": {
+      "total_violations": 34,
+      "total_rules_violated": 3,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0938,
+      "compliance_score": 0.9062,
+      "wab_score": 1.0625
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 32
+      },
+      {
+        "rule_id": "frame-title",
+        "description": "Ensure <iframe> and <frame> elements have an accessible name",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 1,
+    "inapplicable_count": 31,
+    "domain": "mountsinai.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.alz.org",
+    "timestamp": "2026-07-28T05:20:34.727622+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 32,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 32,
+    "incomplete_count": 1,
+    "inapplicable_count": 30,
+    "domain": "alz.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.stanfordhealthcare.org",
+    "timestamp": "2026-07-28T05:20:37.856441+00:00",
+    "summary": {
+      "total_violations": 5,
+      "total_rules_violated": 1,
+      "total_rules_passed": 24,
+      "violation_rate": 0.04,
+      "compliance_score": 0.96,
+      "wab_score": 0.2
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 5
+      }
+    ],
+    "passes_count": 24,
+    "incomplete_count": 0,
+    "inapplicable_count": 38,
+    "domain": "stanfordhealthcare.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.ucsfhealth.org",
+    "timestamp": "2026-07-28T05:20:44.498557+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 30,
+    "incomplete_count": 3,
+    "inapplicable_count": 31,
+    "domain": "ucsfhealth.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.pennmedicine.org",
+    "timestamp": "2026-07-28T05:20:45.995870+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 29,
+    "incomplete_count": 1,
+    "inapplicable_count": 33,
+    "domain": "pennmedicine.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.massgeneral.org",
+    "timestamp": "2026-07-28T05:20:49.490746+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 27,
+      "violation_rate": 0.0357,
+      "compliance_score": 0.9643,
+      "wab_score": 0.0357
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 3,
+    "inapplicable_count": 35,
+    "domain": "massgeneral.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.zocdoc.com",
+    "timestamp": "2026-07-28T05:20:50.271835+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 8,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 8,
+    "incomplete_count": 0,
+    "inapplicable_count": 54,
+    "domain": "zocdoc.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.bmc.org",
+    "timestamp": "2026-07-28T05:20:50.876322+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 25,
+      "violation_rate": 0.0385,
+      "compliance_score": 0.9615,
+      "wab_score": 0.0385
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 25,
+    "incomplete_count": 3,
+    "inapplicable_count": 36,
+    "domain": "bmc.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.cvs.com",
+    "timestamp": "2026-07-28T05:20:53.156033+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 12,
+      "violation_rate": 0.0769,
+      "compliance_score": 0.9231,
+      "wab_score": 0.0769
+    },
+    "violations": [
+      {
+        "rule_id": "document-title",
+        "description": "Ensure each HTML document contains a non-empty <title> element",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag242"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 12,
+    "incomplete_count": 0,
+    "inapplicable_count": 49,
+    "domain": "cvs.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.cigna.com",
+    "timestamp": "2026-07-28T05:20:56.347978+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 29,
+    "incomplete_count": 2,
+    "inapplicable_count": 33,
+    "domain": "cigna.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.humana.com",
+    "timestamp": "2026-07-28T05:20:58.183113+00:00",
+    "summary": {
+      "total_violations": 7,
+      "total_rules_violated": 2,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0645,
+      "compliance_score": 0.9355,
+      "wab_score": 0.2258
+    },
+    "violations": [
+      {
+        "rule_id": "nested-interactive",
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "svg-img-alt",
+        "description": "Ensure <svg> elements with an img, graphics-document or graphics-symbol role have an accessible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 2,
+    "inapplicable_count": 33,
+    "domain": "humana.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.kaiserpermanente.org",
+    "timestamp": "2026-07-28T05:21:02.831965+00:00",
+    "summary": {
+      "total_violations": 4,
+      "total_rules_violated": 1,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0333,
+      "compliance_score": 0.9667,
+      "wab_score": 0.1333
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-parent",
+        "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 4
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 4,
+    "inapplicable_count": 32,
+    "domain": "kaiserpermanente.org",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.health.harvard.edu",
+    "timestamp": "2026-07-28T05:21:03.112890+00:00",
+    "summary": {
+      "total_violations": 6,
+      "total_rules_violated": 3,
+      "total_rules_passed": 26,
+      "violation_rate": 0.1034,
+      "compliance_score": 0.8966,
+      "wab_score": 0.2069
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-parent",
+        "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "aria-roles",
+        "description": "Ensure all elements with a role attribute use a valid value",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 26,
+    "incomplete_count": 2,
+    "inapplicable_count": 35,
+    "domain": "health.harvard.edu",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.walgreens.com",
+    "timestamp": "2026-07-28T05:21:04.184063+00:00",
+    "summary": {
+      "total_violations": 4,
+      "total_rules_violated": 1,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0312,
+      "compliance_score": 0.9688,
+      "wab_score": 0.125
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 4
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "walgreens.com",
+    "sector": "healthcare"
+  },
+  {
+    "url": "https://www.theguardian.com",
+    "timestamp": "2026-07-28T05:21:07.618232+00:00",
+    "summary": {
+      "total_violations": 6,
+      "total_rules_violated": 3,
+      "total_rules_passed": 31,
+      "violation_rate": 0.0882,
+      "compliance_score": 0.9118,
+      "wab_score": 0.1765
+    },
+    "violations": [
+      {
+        "rule_id": "list",
+        "description": "Ensure that lists are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "scrollable-region-focusable",
+        "description": "Ensure elements that have scrollable content are accessible by keyboard",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag211",
+          "wcag213"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 2,
+    "inapplicable_count": 31,
+    "domain": "theguardian.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.bbc.com",
+    "timestamp": "2026-07-28T05:21:09.282142+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "bbc.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.cnn.com",
+    "timestamp": "2026-07-28T05:21:10.010497+00:00",
+    "summary": {
+      "total_violations": 56,
+      "total_rules_violated": 2,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0645,
+      "compliance_score": 0.9355,
+      "wab_score": 1.8065
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 55
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 2,
+    "inapplicable_count": 32,
+    "domain": "cnn.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.bbc.co.uk",
+    "timestamp": "2026-07-28T05:21:11.035486+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "bbc.co.uk",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.wsj.com",
+    "timestamp": "2026-07-28T05:21:12.883482+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 8,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 8,
+    "incomplete_count": 0,
+    "inapplicable_count": 54,
+    "domain": "wsj.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.time.com",
+    "timestamp": "2026-07-28T05:21:14.921528+00:00",
+    "summary": {
+      "total_violations": 7,
+      "total_rules_violated": 1,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0345,
+      "compliance_score": 0.9655,
+      "wab_score": 0.2414
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 7
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 3,
+    "inapplicable_count": 34,
+    "domain": "time.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.ft.com",
+    "timestamp": "2026-07-28T05:21:15.587528+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 26,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 26,
+    "incomplete_count": 3,
+    "inapplicable_count": 35,
+    "domain": "ft.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.independent.co.uk",
+    "timestamp": "2026-07-28T05:21:18.253368+00:00",
+    "summary": {
+      "total_violations": 146,
+      "total_rules_violated": 3,
+      "total_rules_passed": 26,
+      "violation_rate": 0.1034,
+      "compliance_score": 0.8966,
+      "wab_score": 5.0345
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 26
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 8
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 112
+      }
+    ],
+    "passes_count": 26,
+    "incomplete_count": 1,
+    "inapplicable_count": 36,
+    "domain": "independent.co.uk",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.aljazeera.com",
+    "timestamp": "2026-07-28T05:21:19.348869+00:00",
+    "summary": {
+      "total_violations": 2,
+      "total_rules_violated": 1,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0323,
+      "compliance_score": 0.9677,
+      "wab_score": 0.0645
+    },
+    "violations": [
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 2
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 5,
+    "inapplicable_count": 32,
+    "domain": "aljazeera.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.abc.net.au",
+    "timestamp": "2026-07-28T05:21:19.949020+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 32,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 32,
+    "incomplete_count": 3,
+    "inapplicable_count": 30,
+    "domain": "abc.net.au",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.theatlantic.com",
+    "timestamp": "2026-07-28T05:21:23.440709+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "theatlantic.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.economist.com",
+    "timestamp": "2026-07-28T05:21:25.096244+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 29,
+    "incomplete_count": 2,
+    "inapplicable_count": 33,
+    "domain": "economist.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.forbes.com",
+    "timestamp": "2026-07-28T05:21:28.225547+00:00",
+    "summary": {
+      "total_violations": 81,
+      "total_rules_violated": 3,
+      "total_rules_passed": 27,
+      "violation_rate": 0.1,
+      "compliance_score": 0.9,
+      "wab_score": 2.7
+    },
+    "violations": [
+      {
+        "rule_id": "link-in-text-block",
+        "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag141"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 75
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 2,
+    "inapplicable_count": 34,
+    "domain": "forbes.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.telegraph.co.uk",
+    "timestamp": "2026-07-28T05:21:28.490776+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "telegraph.co.uk",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.nytimes.com",
+    "timestamp": "2026-07-28T05:21:35.467987+00:00",
+    "summary": {
+      "total_violations": 34,
+      "total_rules_violated": 4,
+      "total_rules_passed": 28,
+      "violation_rate": 0.125,
+      "compliance_score": 0.875,
+      "wab_score": 1.0625
+    },
+    "violations": [
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 6
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 12
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 15
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 3,
+    "inapplicable_count": 33,
+    "domain": "nytimes.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.apnews.com",
+    "timestamp": "2026-07-28T05:21:35.781688+00:00",
+    "summary": {
+      "total_violations": 60,
+      "total_rules_violated": 6,
+      "total_rules_passed": 29,
+      "violation_rate": 0.1714,
+      "compliance_score": 0.8286,
+      "wab_score": 1.7143
+    },
+    "violations": [
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "frame-title",
+        "description": "Ensure <iframe> and <frame> elements have an accessible name",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 8
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 47
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 4,
+    "inapplicable_count": 32,
+    "domain": "apnews.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.npr.org",
+    "timestamp": "2026-07-28T05:21:36.370461+00:00",
+    "summary": {
+      "total_violations": 62,
+      "total_rules_violated": 5,
+      "total_rules_passed": 27,
+      "violation_rate": 0.1562,
+      "compliance_score": 0.8438,
+      "wab_score": 1.9375
+    },
+    "violations": [
+      {
+        "rule_id": "aria-roles",
+        "description": "Ensure all elements with a role attribute use a valid value",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 6
+      },
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 48
+      },
+      {
+        "rule_id": "listitem",
+        "description": "Ensure <li> elements are used semantically",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 4,
+    "inapplicable_count": 34,
+    "domain": "npr.org",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.usatoday.com",
+    "timestamp": "2026-07-28T05:21:39.351876+00:00",
+    "summary": {
+      "total_violations": 16,
+      "total_rules_violated": 5,
+      "total_rules_passed": 24,
+      "violation_rate": 0.1724,
+      "compliance_score": 0.8276,
+      "wab_score": 0.5517
+    },
+    "violations": [
+      {
+        "rule_id": "aria-prohibited-attr",
+        "description": "Ensure ARIA attributes are not prohibited for an element's role",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 12
+      },
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "label",
+        "description": "Ensure every form element has a label",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 24,
+    "incomplete_count": 4,
+    "inapplicable_count": 36,
+    "domain": "usatoday.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.nbcnews.com",
+    "timestamp": "2026-07-28T05:21:41.978071+00:00",
+    "summary": {
+      "total_violations": 36,
+      "total_rules_violated": 8,
+      "total_rules_passed": 32,
+      "violation_rate": 0.2,
+      "compliance_score": 0.8,
+      "wab_score": 0.9
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "aria-valid-attr-value",
+        "description": "Ensure all ARIA attributes have valid values",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 7
+      },
+      {
+        "rule_id": "scrollable-region-focusable",
+        "description": "Ensure elements that have scrollable content are accessible by keyboard",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag211",
+          "wcag213"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 18
+      }
+    ],
+    "passes_count": 32,
+    "incomplete_count": 4,
+    "inapplicable_count": 29,
+    "domain": "nbcnews.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.newsweek.com",
+    "timestamp": "2026-07-28T05:21:44.042542+00:00",
+    "summary": {
+      "total_violations": 31,
+      "total_rules_violated": 6,
+      "total_rules_passed": 28,
+      "violation_rate": 0.1765,
+      "compliance_score": 0.8235,
+      "wab_score": 0.9118
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 16
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 7
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 2,
+    "inapplicable_count": 33,
+    "domain": "newsweek.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.cbsnews.com",
+    "timestamp": "2026-07-28T05:21:44.373144+00:00",
+    "summary": {
+      "total_violations": 17,
+      "total_rules_violated": 3,
+      "total_rules_passed": 26,
+      "violation_rate": 0.1034,
+      "compliance_score": 0.8966,
+      "wab_score": 0.5862
+    },
+    "violations": [
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 14
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 26,
+    "incomplete_count": 1,
+    "inapplicable_count": 35,
+    "domain": "cbsnews.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.politico.com",
+    "timestamp": "2026-07-28T05:21:47.474766+00:00",
+    "summary": {
+      "total_violations": 20,
+      "total_rules_violated": 6,
+      "total_rules_passed": 29,
+      "violation_rate": 0.1714,
+      "compliance_score": 0.8286,
+      "wab_score": 0.5714
+    },
+    "violations": [
+      {
+        "rule_id": "aria-prohibited-attr",
+        "description": "Ensure ARIA attributes are not prohibited for an element's role",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 5
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 6
+      },
+      {
+        "rule_id": "frame-title",
+        "description": "Ensure <iframe> and <frame> elements have an accessible name",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 4
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 4,
+    "inapplicable_count": 32,
+    "domain": "politico.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.hindustantimes.com",
+    "timestamp": "2026-07-28T05:21:49.767434+00:00",
+    "summary": {
+      "total_violations": 68,
+      "total_rules_violated": 4,
+      "total_rules_passed": 27,
+      "violation_rate": 0.129,
+      "compliance_score": 0.871,
+      "wab_score": 2.1935
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 65
+      },
+      {
+        "rule_id": "list",
+        "description": "Ensure that lists are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "nested-interactive",
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 1,
+    "inapplicable_count": 35,
+    "domain": "hindustantimes.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.dailymail.co.uk",
+    "timestamp": "2026-07-28T05:21:51.059000+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 3,
+      "violation_rate": 0.25,
+      "compliance_score": 0.75,
+      "wab_score": 0.25
+    },
+    "violations": [
+      {
+        "rule_id": "html-has-lang",
+        "description": "Ensure every HTML document has a lang attribute",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag311"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 3,
+    "incomplete_count": 0,
+    "inapplicable_count": 58,
+    "domain": "dailymail.co.uk",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.abcnews.go.com",
+    "timestamp": "2026-07-28T05:21:51.457477+00:00",
+    "summary": {
+      "total_violations": 78,
+      "total_rules_violated": 7,
+      "total_rules_passed": 26,
+      "violation_rate": 0.2121,
+      "compliance_score": 0.7879,
+      "wab_score": 2.3636
+    },
+    "violations": [
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 26
+      },
+      {
+        "rule_id": "aria-required-children",
+        "description": "Ensure elements with an ARIA role that require child roles contain them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "aria-required-parent",
+        "description": "Ensure elements with an ARIA role that require parent roles are contained by them",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 7
+      },
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 8
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 5
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 27
+      }
+    ],
+    "passes_count": 26,
+    "incomplete_count": 5,
+    "inapplicable_count": 34,
+    "domain": "abcnews.go.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.scmp.com",
+    "timestamp": "2026-07-28T05:21:55.610278+00:00",
+    "summary": {
+      "total_violations": 27,
+      "total_rules_violated": 3,
+      "total_rules_passed": 21,
+      "violation_rate": 0.125,
+      "compliance_score": 0.875,
+      "wab_score": 1.125
+    },
+    "violations": [
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 20
+      },
+      {
+        "rule_id": "meta-viewport",
+        "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming",
+        "impact": "critical",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag144"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 6
+      }
+    ],
+    "passes_count": 21,
+    "incomplete_count": 1,
+    "inapplicable_count": 40,
+    "domain": "scmp.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.sky.com",
+    "timestamp": "2026-07-28T05:21:57.935526+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 30,
+    "incomplete_count": 3,
+    "inapplicable_count": 31,
+    "domain": "sky.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.france24.com",
+    "timestamp": "2026-07-28T05:22:00.060638+00:00",
+    "summary": {
+      "total_violations": 9,
+      "total_rules_violated": 1,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0345,
+      "compliance_score": 0.9655,
+      "wab_score": 0.3103
+    },
+    "violations": [
+      {
+        "rule_id": "listitem",
+        "description": "Ensure <li> elements are used semantically",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 9
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 1,
+    "inapplicable_count": 34,
+    "domain": "france24.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.japantimes.co.jp",
+    "timestamp": "2026-07-28T05:22:00.766310+00:00",
+    "summary": {
+      "total_violations": 1,
+      "total_rules_violated": 1,
+      "total_rules_passed": 13,
+      "violation_rate": 0.0714,
+      "compliance_score": 0.9286,
+      "wab_score": 0.0714
+    },
+    "violations": [
+      {
+        "rule_id": "meta-refresh",
+        "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag221"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 13,
+    "incomplete_count": 0,
+    "inapplicable_count": 48,
+    "domain": "japantimes.co.jp",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.dw.com",
+    "timestamp": "2026-07-28T05:22:03.769755+00:00",
+    "summary": {
+      "total_violations": 14,
+      "total_rules_violated": 3,
+      "total_rules_passed": 25,
+      "violation_rate": 0.1071,
+      "compliance_score": 0.8929,
+      "wab_score": 0.5
+    },
+    "violations": [
+      {
+        "rule_id": "aria-command-name",
+        "description": "Ensure every ARIA button, link and menuitem has an accessible name",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "aria-hidden-focus",
+        "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 11
+      }
+    ],
+    "passes_count": 25,
+    "incomplete_count": 2,
+    "inapplicable_count": 36,
+    "domain": "dw.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.huffpost.com",
+    "timestamp": "2026-07-28T05:22:05.746247+00:00",
+    "summary": {
+      "total_violations": 31,
+      "total_rules_violated": 4,
+      "total_rules_passed": 29,
+      "violation_rate": 0.1212,
+      "compliance_score": 0.8788,
+      "wab_score": 0.9394
+    },
+    "violations": [
+      {
+        "rule_id": "aria-command-name",
+        "description": "Ensure every ARIA button, link and menuitem has an accessible name",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "button-name",
+        "description": "Ensure buttons have discernible text",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 26
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 3
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 2,
+    "inapplicable_count": 32,
+    "domain": "huffpost.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.buzzfeed.com",
+    "timestamp": "2026-07-28T05:22:09.929739+00:00",
+    "summary": {
+      "total_violations": 257,
+      "total_rules_violated": 5,
+      "total_rules_passed": 27,
+      "violation_rate": 0.1562,
+      "compliance_score": 0.8438,
+      "wab_score": 8.0312
+    },
+    "violations": [
+      {
+        "rule_id": "aria-valid-attr-value",
+        "description": "Ensure all ARIA attributes have valid values",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 52
+      },
+      {
+        "rule_id": "color-contrast",
+        "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag2aa",
+          "wcag143"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 3
+      },
+      {
+        "rule_id": "listitem",
+        "description": "Ensure <li> elements are used semantically",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 200
+      },
+      {
+        "rule_id": "meta-refresh",
+        "description": "Ensure <meta http-equiv=\"refresh\"> is not used for delayed refresh",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag221"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 27,
+    "incomplete_count": 4,
+    "inapplicable_count": 33,
+    "domain": "buzzfeed.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.foxnews.com",
+    "timestamp": "2026-07-28T05:22:11.318907+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 23,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 23,
+    "incomplete_count": 2,
+    "inapplicable_count": 38,
+    "domain": "foxnews.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.vox.com",
+    "timestamp": "2026-07-28T05:22:14.581762+00:00",
+    "summary": {
+      "total_violations": 0,
+      "total_rules_violated": 0,
+      "total_rules_passed": 30,
+      "violation_rate": 0.0,
+      "compliance_score": 1.0,
+      "wab_score": 0.0
+    },
+    "violations": [],
+    "passes_count": 30,
+    "incomplete_count": 1,
+    "inapplicable_count": 32,
+    "domain": "vox.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.vice.com",
+    "timestamp": "2026-07-28T05:22:14.974618+00:00",
+    "summary": {
+      "total_violations": 6,
+      "total_rules_violated": 2,
+      "total_rules_passed": 28,
+      "violation_rate": 0.0667,
+      "compliance_score": 0.9333,
+      "wab_score": 0.2
+    },
+    "violations": [
+      {
+        "rule_id": "nested-interactive",
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 4
+      }
+    ],
+    "passes_count": 28,
+    "incomplete_count": 0,
+    "inapplicable_count": 34,
+    "domain": "vice.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.wired.com",
+    "timestamp": "2026-07-28T05:22:17.617612+00:00",
+    "summary": {
+      "total_violations": 77,
+      "total_rules_violated": 4,
+      "total_rules_passed": 31,
+      "violation_rate": 0.1143,
+      "compliance_score": 0.8857,
+      "wab_score": 2.2
+    },
+    "violations": [
+      {
+        "rule_id": "aria-prohibited-attr",
+        "description": "Ensure ARIA attributes are not prohibited for an element's role",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "image-alt",
+        "description": "Ensure <img> elements have alternative text or a role of none or presentation",
+        "impact": "critical",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag111"
+        ],
+        "count": 28
+      },
+      {
+        "rule_id": "nested-interactive",
+        "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag412"
+        ],
+        "count": 18
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 29
+      }
+    ],
+    "passes_count": 31,
+    "incomplete_count": 4,
+    "inapplicable_count": 31,
+    "domain": "wired.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.techcrunch.com",
+    "timestamp": "2026-07-28T05:22:19.680622+00:00",
+    "summary": {
+      "total_violations": 4,
+      "total_rules_violated": 3,
+      "total_rules_passed": 29,
+      "violation_rate": 0.0938,
+      "compliance_score": 0.9062,
+      "wab_score": 0.125
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 2
+      },
+      {
+        "rule_id": "list",
+        "description": "Ensure that lists are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 29,
+    "incomplete_count": 1,
+    "inapplicable_count": 33,
+    "domain": "techcrunch.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.arstechnica.com",
+    "timestamp": "2026-07-28T05:22:19.933202+00:00",
+    "summary": {
+      "total_violations": 18,
+      "total_rules_violated": 1,
+      "total_rules_passed": 26,
+      "violation_rate": 0.037,
+      "compliance_score": 0.963,
+      "wab_score": 0.6667
+    },
+    "violations": [
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 18
+      }
+    ],
+    "passes_count": 26,
+    "incomplete_count": 1,
+    "inapplicable_count": 36,
+    "domain": "arstechnica.com",
+    "sector": "news"
+  },
+  {
+    "url": "https://www.theverge.com",
+    "timestamp": "2026-07-28T05:22:22.181466+00:00",
+    "summary": {
+      "total_violations": 17,
+      "total_rules_violated": 4,
+      "total_rules_passed": 30,
+      "violation_rate": 0.1176,
+      "compliance_score": 0.8824,
+      "wab_score": 0.5
+    },
+    "violations": [
+      {
+        "rule_id": "link-in-text-block",
+        "description": "Ensure links are distinguished from surrounding text in a way that does not rely on color",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag141"
+        ],
+        "count": 4
+      },
+      {
+        "rule_id": "link-name",
+        "description": "Ensure links have discernible text",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag244",
+          "wcag412"
+        ],
+        "count": 11
+      },
+      {
+        "rule_id": "list",
+        "description": "Ensure that lists are structured correctly",
+        "impact": "serious",
+        "wcag_level": "A",
+        "wcag_tags": [
+          "wcag2a",
+          "wcag131"
+        ],
+        "count": 1
+      },
+      {
+        "rule_id": "target-size",
+        "description": "Ensure touch targets have sufficient size and space",
+        "impact": "serious",
+        "wcag_level": "AA",
+        "wcag_tags": [
+          "wcag22aa",
+          "wcag258"
+        ],
+        "count": 1
+      }
+    ],
+    "passes_count": 30,
+    "incomplete_count": 2,
+    "inapplicable_count": 32,
+    "domain": "theverge.com",
+    "sector": "news"
+  }
+]

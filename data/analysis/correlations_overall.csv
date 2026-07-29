@@ -1,0 +1,13 @@
+x,y,method,coefficient,p_value,n,significant,bonferroni_significant
+compliance_score,success_rate,spearman,0.3084,0.0,588,True,True
+compliance_score,avg_steps,spearman,-0.2271,0.0,588,True,True
+compliance_score,avg_duration,spearman,0.015,0.717418,588,False,False
+violation_rate,success_rate,spearman,-0.3084,0.0,588,True,True
+violation_rate,avg_steps,spearman,0.2271,0.0,588,True,True
+violation_rate,avg_duration,spearman,-0.015,0.717418,588,False,False
+wab_score,success_rate,spearman,-0.1311,0.001438,588,True,True
+wab_score,avg_steps,spearman,0.0767,0.063089,588,False,False
+wab_score,avg_duration,spearman,0.0444,0.282573,588,False,False
+total_violations,success_rate,spearman,0.0116,0.778387,588,False,False
+total_violations,avg_steps,spearman,-0.0376,0.363294,588,False,False
+total_violations,avg_duration,spearman,0.0954,0.020644,588,True,False

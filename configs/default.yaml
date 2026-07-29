@@ -1,0 +1,43 @@
+# WCAG-Agent Evaluation Framework Configuration
+
+accessibility:
+  # axe-core rule tags to test against
+  wcag_levels: ["wcag2a", "wcag2aa", "wcag21a", "wcag21aa", "wcag22aa"]
+  # Browser viewport for auditing
+  viewport:
+    width: 1280
+    height: 720
+  # Timeout per page (ms)
+  page_timeout: 30000
+  # Number of retries on failure
+  retries: 2
+
+agent:
+  # Observation modes to test
+  observation_modes: ["accessibility_tree", "dom", "screenshot"]
+  # Number of runs per task for reliability
+  runs_per_task: 3
+  # Max steps per task before timeout
+  max_steps: 30
+  # LLM provider config (set API keys in .env)
+  llm:
+    provider: "anthropic"
+    model: "claude-sonnet-4-20250514"
+    temperature: 0.0
+    max_tokens: 4096
+
+analysis:
+  # Minimum sample size for correlation tests
+  min_sample_size: 30
+  # Significance level
+  alpha: 0.05
+  # Correlation method
+  correlation_method: "spearman"
+
+# Website sample sectors for stratified sampling
+sectors:
+  - ecommerce
+  - education
+  - government
+  - news
+  - healthcare

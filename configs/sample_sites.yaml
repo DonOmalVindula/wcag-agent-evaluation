@@ -1,0 +1,37 @@
+# Sample website list for evaluation
+# Structure: sector -> list of sites with URLs and expected tasks
+# This will be expanded to 100-200 sites during Phase 3
+
+ecommerce:
+  - url: "https://www.amazon.com"
+    name: "Amazon"
+  - url: "https://www.ebay.com"
+    name: "eBay"
+  - url: "https://www.etsy.com"
+    name: "Etsy"
+
+education:
+  - url: "https://www.coursera.org"
+    name: "Coursera"
+  - url: "https://www.khanacademy.org"
+    name: "Khan Academy"
+  - url: "https://www.edx.org"
+    name: "edX"
+
+government:
+  - url: "https://www.gov.uk"
+    name: "GOV.UK"
+  - url: "https://www.usa.gov"
+    name: "USA.gov"
+
+news:
+  - url: "https://www.bbc.com"
+    name: "BBC"
+  - url: "https://www.reuters.com"
+    name: "Reuters"
+
+healthcare:
+  - url: "https://www.nhs.uk"
+    name: "NHS"
+  - url: "https://www.who.int"
+    name: "WHO"

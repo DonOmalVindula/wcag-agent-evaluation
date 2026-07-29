@@ -1,0 +1,1802 @@
+[
+  {
+    "domain": "amazon.com",
+    "name": "Amazon",
+    "sector": "ecommerce",
+    "url": "https://www.amazon.com",
+    "tranco_rank": 24,
+    "compliance_score": 0.9166666666666666,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "shopify.com",
+    "name": "Shopify",
+    "sector": "ecommerce",
+    "url": "https://www.shopify.com",
+    "tranco_rank": 164,
+    "compliance_score": 0.90625,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "booking.com",
+    "name": "Booking.com",
+    "sector": "ecommerce",
+    "url": "https://www.booking.com",
+    "tranco_rank": 262,
+    "compliance_score": 0.96875,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "etsy.com",
+    "name": "Etsy",
+    "sector": "ecommerce",
+    "url": "https://www.etsy.com",
+    "tranco_rank": 284,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "temu.com",
+    "name": "Temu",
+    "sector": "ecommerce",
+    "url": "https://www.temu.com",
+    "tranco_rank": 378,
+    "compliance_score": 0.9375,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "walmart.com",
+    "name": "Walmart",
+    "sector": "ecommerce",
+    "url": "https://www.walmart.com",
+    "tranco_rank": 397,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "shein.com",
+    "name": "SHEIN",
+    "sector": "ecommerce",
+    "url": "https://www.shein.com",
+    "tranco_rank": 496,
+    "compliance_score": 0.9333333333333333,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "target.com",
+    "name": "Target",
+    "sector": "ecommerce",
+    "url": "https://www.target.com",
+    "tranco_rank": 586,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ikea.com",
+    "name": "IKEA",
+    "sector": "ecommerce",
+    "url": "https://www.ikea.com",
+    "tranco_rank": 609,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "nike.com",
+    "name": "Nike",
+    "sector": "ecommerce",
+    "url": "https://www.nike.com",
+    "tranco_rank": 633,
+    "compliance_score": 0.962962962962963,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "homedepot.com",
+    "name": "Home Depot",
+    "sector": "ecommerce",
+    "url": "https://www.homedepot.com",
+    "tranco_rank": 741,
+    "compliance_score": 0.9375,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "bestbuy.com",
+    "name": "Best Buy",
+    "sector": "ecommerce",
+    "url": "https://www.bestbuy.com",
+    "tranco_rank": 745,
+    "compliance_score": 0.9375,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "airbnb.com",
+    "name": "Airbnb",
+    "sector": "ecommerce",
+    "url": "https://www.airbnb.com",
+    "tranco_rank": 893,
+    "compliance_score": 0.9666666666666667,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ebay.com",
+    "name": "eBay",
+    "sector": "ecommerce",
+    "url": "https://www.ebay.com",
+    "tranco_rank": 199,
+    "compliance_score": 0.8857142857142857,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "hm.com",
+    "name": "H&M",
+    "sector": "ecommerce",
+    "url": "https://www.hm.com",
+    "tranco_rank": 939,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "lowes.com",
+    "name": "Lowe's",
+    "sector": "ecommerce",
+    "url": "https://www.lowes.com",
+    "tranco_rank": 950,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "macys.com",
+    "name": "Macy's",
+    "sector": "ecommerce",
+    "url": "https://www.macys.com",
+    "tranco_rank": 1031,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "adidas.com",
+    "name": "Adidas",
+    "sector": "ecommerce",
+    "url": "https://www.adidas.com",
+    "tranco_rank": 2813,
+    "compliance_score": 0.7142857142857143,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "asos.com",
+    "name": "ASOS",
+    "sector": "ecommerce",
+    "url": "https://www.asos.com",
+    "tranco_rank": 3359,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "zara.com",
+    "name": "Zara",
+    "sector": "ecommerce",
+    "url": "https://www.zara.com",
+    "tranco_rank": 3646,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "gap.com",
+    "name": "Gap",
+    "sector": "ecommerce",
+    "url": "https://www.gap.com",
+    "tranco_rank": 3920,
+    "compliance_score": 0.8709677419354839,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "sephora.com",
+    "name": "Sephora",
+    "sector": "ecommerce",
+    "url": "https://www.sephora.com",
+    "tranco_rank": 4068,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "newegg.com",
+    "name": "Newegg",
+    "sector": "ecommerce",
+    "url": "https://www.newegg.com",
+    "tranco_rank": 4806,
+    "compliance_score": 0.8787878787878788,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "overstock.com",
+    "name": "Overstock",
+    "sector": "ecommerce",
+    "url": "https://www.overstock.com",
+    "tranco_rank": null,
+    "compliance_score": 0.84,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "wish.com",
+    "name": "Wish",
+    "sector": "ecommerce",
+    "url": "https://www.wish.com",
+    "tranco_rank": null,
+    "compliance_score": 0.8857142857142857,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "dhgate.com",
+    "name": "DHgate",
+    "sector": "ecommerce",
+    "url": "https://www.dhgate.com",
+    "tranco_rank": null,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "aliexpress.com",
+    "name": "AliExpress",
+    "sector": "ecommerce",
+    "url": "https://www.aliexpress.com",
+    "tranco_rank": 476,
+    "compliance_score": 0.4,
+    "compliance_bin": "low"
+  },
+  {
+    "domain": "expedia.com",
+    "name": "Expedia",
+    "sector": "ecommerce",
+    "url": "https://www.expedia.com",
+    "tranco_rank": 2023,
+    "compliance_score": 0.9444444444444444,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "uniqlo.com",
+    "name": "Uniqlo",
+    "sector": "ecommerce",
+    "url": "https://www.uniqlo.com",
+    "tranco_rank": 3695,
+    "compliance_score": 0.9642857142857143,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "chewy.com",
+    "name": "Chewy",
+    "sector": "ecommerce",
+    "url": "https://www.chewy.com",
+    "tranco_rank": 3877,
+    "compliance_score": 0.96,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "nordstrom.com",
+    "name": "Nordstrom",
+    "sector": "ecommerce",
+    "url": "https://www.nordstrom.com",
+    "tranco_rank": 4202,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "zappos.com",
+    "name": "Zappos",
+    "sector": "ecommerce",
+    "url": "https://www.zappos.com",
+    "tranco_rank": 4226,
+    "compliance_score": 0.96875,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "trivago.com",
+    "name": "Trivago",
+    "sector": "ecommerce",
+    "url": "https://www.trivago.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9285714285714286,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "banggood.com",
+    "name": "Banggood",
+    "sector": "ecommerce",
+    "url": "https://www.banggood.com",
+    "tranco_rank": null,
+    "compliance_score": 0.76,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "6pm.com",
+    "name": "6pm",
+    "sector": "ecommerce",
+    "url": "https://www.6pm.com",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "jcpenney.com",
+    "name": "JCPenney",
+    "sector": "ecommerce",
+    "url": "https://www.jcpenney.com",
+    "tranco_rank": null,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "kohls.com",
+    "name": "Kohl's",
+    "sector": "ecommerce",
+    "url": "https://www.kohls.com",
+    "tranco_rank": null,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "forever21.com",
+    "name": "Forever 21",
+    "sector": "ecommerce",
+    "url": "https://www.forever21.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9393939393939394,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "urbanoutfitters.com",
+    "name": "Urban Outfitters",
+    "sector": "ecommerce",
+    "url": "https://www.urbanoutfitters.com",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "anthropologie.com",
+    "name": "Anthropologie",
+    "sector": "ecommerce",
+    "url": "https://www.anthropologie.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "mit.edu",
+    "name": "MIT",
+    "sector": "education",
+    "url": "https://www.mit.edu",
+    "tranco_rank": 226,
+    "compliance_score": 0.9333333333333333,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "harvard.edu",
+    "name": "Harvard",
+    "sector": "education",
+    "url": "https://www.harvard.edu",
+    "tranco_rank": 308,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "stanford.edu",
+    "name": "Stanford",
+    "sector": "education",
+    "url": "https://www.stanford.edu",
+    "tranco_rank": 374,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "berkeley.edu",
+    "name": "UC Berkeley",
+    "sector": "education",
+    "url": "https://www.berkeley.edu",
+    "tranco_rank": 594,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "princeton.edu",
+    "name": "Princeton",
+    "sector": "education",
+    "url": "https://www.princeton.edu",
+    "tranco_rank": 876,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "columbia.edu",
+    "name": "Columbia",
+    "sector": "education",
+    "url": "https://www.columbia.edu",
+    "tranco_rank": 1018,
+    "compliance_score": 0.9428571428571428,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "coursera.org",
+    "name": "Coursera",
+    "sector": "education",
+    "url": "https://www.coursera.org",
+    "tranco_rank": 1061,
+    "compliance_score": 0.9714285714285714,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ox.ac.uk",
+    "name": "Oxford",
+    "sector": "education",
+    "url": "https://www.ox.ac.uk",
+    "tranco_rank": 1093,
+    "compliance_score": 0.9285714285714286,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "yale.edu",
+    "name": "Yale",
+    "sector": "education",
+    "url": "https://www.yale.edu",
+    "tranco_rank": 1151,
+    "compliance_score": 0.9333333333333333,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "umn.edu",
+    "name": "U Minnesota",
+    "sector": "education",
+    "url": "https://www.umn.edu",
+    "tranco_rank": 1286,
+    "compliance_score": 0.9655172413793104,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ucla.edu",
+    "name": "UCLA",
+    "sector": "education",
+    "url": "https://www.ucla.edu",
+    "tranco_rank": 1328,
+    "compliance_score": 0.9333333333333333,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "cmu.edu",
+    "name": "Carnegie Mellon",
+    "sector": "education",
+    "url": "https://www.cmu.edu",
+    "tranco_rank": 1474,
+    "compliance_score": 0.9642857142857143,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "cam.ac.uk",
+    "name": "Cambridge",
+    "sector": "education",
+    "url": "https://www.cam.ac.uk",
+    "tranco_rank": 1499,
+    "compliance_score": 0.9666666666666667,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "duolingo.com",
+    "name": "Duolingo",
+    "sector": "education",
+    "url": "https://www.duolingo.com",
+    "tranco_rank": 471,
+    "compliance_score": 0.875,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "ted.com",
+    "name": "TED",
+    "sector": "education",
+    "url": "https://www.ted.com",
+    "tranco_rank": 666,
+    "compliance_score": 0.8529411764705882,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "brilliant.org",
+    "name": "Brilliant",
+    "sector": "education",
+    "url": "https://www.brilliant.org",
+    "tranco_rank": null,
+    "compliance_score": 0.8928571428571429,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "futurelearn.com",
+    "name": "FutureLearn",
+    "sector": "education",
+    "url": "https://www.futurelearn.com",
+    "tranco_rank": null,
+    "compliance_score": 0.8648648648648649,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "nus.edu.sg",
+    "name": "NUS Singapore",
+    "sector": "education",
+    "url": "https://www.nus.edu.sg",
+    "tranco_rank": null,
+    "compliance_score": 0.8,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "udemy.com",
+    "name": "Udemy",
+    "sector": "education",
+    "url": "https://www.udemy.com",
+    "tranco_rank": 1821,
+    "compliance_score": 0.9393939393939394,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "unimelb.edu.au",
+    "name": "U Melbourne",
+    "sector": "education",
+    "url": "https://www.unimelb.edu.au",
+    "tranco_rank": 2116,
+    "compliance_score": 0.96875,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "purdue.edu",
+    "name": "Purdue",
+    "sector": "education",
+    "url": "https://www.purdue.edu",
+    "tranco_rank": 2159,
+    "compliance_score": 0.9666666666666667,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "khanacademy.org",
+    "name": "Khan Academy",
+    "sector": "education",
+    "url": "https://www.khanacademy.org",
+    "tranco_rank": 2195,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "nyu.edu",
+    "name": "NYU",
+    "sector": "education",
+    "url": "https://www.nyu.edu",
+    "tranco_rank": 2207,
+    "compliance_score": 0.9375,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ucl.ac.uk",
+    "name": "UCL",
+    "sector": "education",
+    "url": "https://www.ucl.ac.uk",
+    "tranco_rank": 2617,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ethz.ch",
+    "name": "ETH Zurich",
+    "sector": "education",
+    "url": "https://www.ethz.ch",
+    "tranco_rank": 2706,
+    "compliance_score": 0.967741935483871,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "edx.org",
+    "name": "edX",
+    "sector": "education",
+    "url": "https://www.edx.org",
+    "tranco_rank": 3538,
+    "compliance_score": 0.9696969696969697,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "gatech.edu",
+    "name": "Georgia Tech",
+    "sector": "education",
+    "url": "https://www.gatech.edu",
+    "tranco_rank": 3556,
+    "compliance_score": 0.9,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "imperial.ac.uk",
+    "name": "Imperial College",
+    "sector": "education",
+    "url": "https://www.imperial.ac.uk",
+    "tranco_rank": null,
+    "compliance_score": 0.967741935483871,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "westminster.ac.uk",
+    "name": "Westminster",
+    "sector": "education",
+    "url": "https://www.westminster.ac.uk",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "codecademy.com",
+    "name": "Codecademy",
+    "sector": "education",
+    "url": "https://www.codecademy.com",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "skillshare.com",
+    "name": "Skillshare",
+    "sector": "education",
+    "url": "https://www.skillshare.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9333333333333333,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "lynda.com",
+    "name": "LinkedIn Learning",
+    "sector": "education",
+    "url": "https://www.lynda.com",
+    "tranco_rank": null,
+    "compliance_score": 0.96875,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "scholastic.com",
+    "name": "Scholastic",
+    "sector": "education",
+    "url": "https://www.scholastic.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9117647058823529,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "udacity.com",
+    "name": "Udacity",
+    "sector": "education",
+    "url": "https://www.udacity.com",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "pluralsight.com",
+    "name": "Pluralsight",
+    "sector": "education",
+    "url": "https://www.pluralsight.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9375,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "freecodecamp.org",
+    "name": "freeCodeCamp",
+    "sector": "education",
+    "url": "https://www.freecodecamp.org",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "w3schools.com",
+    "name": "W3Schools",
+    "sector": "education",
+    "url": "https://www.w3schools.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9428571428571428,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "open.edu",
+    "name": "Open University",
+    "sector": "education",
+    "url": "https://www.open.edu",
+    "tranco_rank": null,
+    "compliance_score": 0.9285714285714286,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "lse.ac.uk",
+    "name": "LSE",
+    "sector": "education",
+    "url": "https://www.lse.ac.uk",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "kcl.ac.uk",
+    "name": "King's College London",
+    "sector": "education",
+    "url": "https://www.kcl.ac.uk",
+    "tranco_rank": null,
+    "compliance_score": 0.967741935483871,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "europa.eu",
+    "name": "EU Portal",
+    "sector": "government",
+    "url": "https://www.europa.eu",
+    "tranco_rank": 119,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "cdc.gov",
+    "name": "CDC",
+    "sector": "government",
+    "url": "https://www.cdc.gov",
+    "tranco_rank": 342,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "nasa.gov",
+    "name": "NASA",
+    "sector": "government",
+    "url": "https://www.nasa.gov",
+    "tranco_rank": 398,
+    "compliance_score": 0.9666666666666667,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "noaa.gov",
+    "name": "NOAA",
+    "sector": "government",
+    "url": "https://www.noaa.gov",
+    "tranco_rank": 667,
+    "compliance_score": 0.9666666666666667,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "fda.gov",
+    "name": "FDA",
+    "sector": "government",
+    "url": "https://www.fda.gov",
+    "tranco_rank": 773,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "irs.gov",
+    "name": "IRS",
+    "sector": "government",
+    "url": "https://www.irs.gov",
+    "tranco_rank": 783,
+    "compliance_score": 0.9696969696969697,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "worldbank.org",
+    "name": "World Bank",
+    "sector": "government",
+    "url": "https://www.worldbank.org",
+    "tranco_rank": 897,
+    "compliance_score": 0.96875,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "justice.gov",
+    "name": "DOJ",
+    "sector": "government",
+    "url": "https://www.justice.gov",
+    "tranco_rank": 914,
+    "compliance_score": 0.9428571428571428,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "state.gov",
+    "name": "State Dept",
+    "sector": "government",
+    "url": "https://www.state.gov",
+    "tranco_rank": 919,
+    "compliance_score": 0.967741935483871,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "epa.gov",
+    "name": "EPA",
+    "sector": "government",
+    "url": "https://www.epa.gov",
+    "tranco_rank": 937,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "whitehouse.gov",
+    "name": "White House",
+    "sector": "government",
+    "url": "https://www.whitehouse.gov",
+    "tranco_rank": 957,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "oecd.org",
+    "name": "OECD",
+    "sector": "government",
+    "url": "https://www.oecd.org",
+    "tranco_rank": 1098,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "canada.ca",
+    "name": "Canada.ca",
+    "sector": "government",
+    "url": "https://www.canada.ca",
+    "tranco_rank": 1347,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "un.org",
+    "name": "United Nations",
+    "sector": "government",
+    "url": "https://www.un.org",
+    "tranco_rank": 351,
+    "compliance_score": 0.8666666666666667,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "senate.gov",
+    "name": "US Senate",
+    "sector": "government",
+    "url": "https://www.senate.gov",
+    "tranco_rank": 2323,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "defense.gov",
+    "name": "US Defense",
+    "sector": "government",
+    "url": "https://www.defense.gov",
+    "tranco_rank": 4391,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "australia.gov.au",
+    "name": "Australia.gov.au",
+    "sector": "government",
+    "url": "https://www.australia.gov.au",
+    "tranco_rank": null,
+    "compliance_score": 0.8620689655172413,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "india.gov.in",
+    "name": "India Gov",
+    "sector": "government",
+    "url": "https://www.india.gov.in",
+    "tranco_rank": null,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "sec.gov",
+    "name": "SEC",
+    "sector": "government",
+    "url": "https://www.sec.gov",
+    "tranco_rank": null,
+    "compliance_score": 0.8571428571428572,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "fbi.gov",
+    "name": "FBI",
+    "sector": "government",
+    "url": "https://www.fbi.gov",
+    "tranco_rank": null,
+    "compliance_score": 0.8709677419354839,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "hhs.gov",
+    "name": "HHS",
+    "sector": "government",
+    "url": "https://www.hhs.gov",
+    "tranco_rank": null,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "dot.gov",
+    "name": "Dept of Transport",
+    "sector": "government",
+    "url": "https://www.dot.gov",
+    "tranco_rank": null,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "energy.gov",
+    "name": "US Energy",
+    "sector": "government",
+    "url": "https://www.energy.gov",
+    "tranco_rank": 2307,
+    "compliance_score": 0.9696969696969697,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "congress.gov",
+    "name": "Congress",
+    "sector": "government",
+    "url": "https://www.congress.gov",
+    "tranco_rank": 2403,
+    "compliance_score": 0.9375,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "imf.org",
+    "name": "IMF",
+    "sector": "government",
+    "url": "https://www.imf.org",
+    "tranco_rank": 2451,
+    "compliance_score": 0.9655172413793104,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ssa.gov",
+    "name": "Social Security",
+    "sector": "government",
+    "url": "https://www.ssa.gov",
+    "tranco_rank": 2454,
+    "compliance_score": 0.935483870967742,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "usa.gov",
+    "name": "USA.gov",
+    "sector": "government",
+    "url": "https://www.usa.gov",
+    "tranco_rank": 2637,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "treasury.gov",
+    "name": "US Treasury",
+    "sector": "government",
+    "url": "https://www.treasury.gov",
+    "tranco_rank": 2802,
+    "compliance_score": 0.9375,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "gov.uk",
+    "name": "GOV.UK",
+    "sector": "government",
+    "url": "https://www.gov.uk",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "data.gov",
+    "name": "Data.gov",
+    "sector": "government",
+    "url": "https://www.data.gov",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "parliament.uk",
+    "name": "UK Parliament",
+    "sector": "government",
+    "url": "https://www.parliament.uk",
+    "tranco_rank": null,
+    "compliance_score": 0.96875,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "govt.nz",
+    "name": "New Zealand Gov",
+    "sector": "government",
+    "url": "https://www.govt.nz",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ec.europa.eu",
+    "name": "European Commission",
+    "sector": "government",
+    "url": "https://www.ec.europa.eu",
+    "tranco_rank": null,
+    "compliance_score": 0.9655172413793104,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "va.gov",
+    "name": "Veterans Affairs",
+    "sector": "government",
+    "url": "https://www.va.gov",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "dol.gov",
+    "name": "Dept of Labor",
+    "sector": "government",
+    "url": "https://www.dol.gov",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ed.gov",
+    "name": "Dept of Education",
+    "sector": "government",
+    "url": "https://www.ed.gov",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "fema.gov",
+    "name": "FEMA",
+    "sector": "government",
+    "url": "https://www.fema.gov",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "sba.gov",
+    "name": "SBA",
+    "sector": "government",
+    "url": "https://www.sba.gov",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "gsa.gov",
+    "name": "GSA",
+    "sector": "government",
+    "url": "https://www.gsa.gov",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "uscis.gov",
+    "name": "USCIS",
+    "sector": "government",
+    "url": "https://www.uscis.gov",
+    "tranco_rank": null,
+    "compliance_score": 0.9722222222222222,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "nih.gov",
+    "name": "NIH",
+    "sector": "healthcare",
+    "url": "https://www.nih.gov",
+    "tranco_rank": 140,
+    "compliance_score": 0.967741935483871,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "who.int",
+    "name": "WHO",
+    "sector": "healthcare",
+    "url": "https://www.who.int",
+    "tranco_rank": 245,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "mayoclinic.org",
+    "name": "Mayo Clinic",
+    "sector": "healthcare",
+    "url": "https://www.mayoclinic.org",
+    "tranco_rank": 816,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "healthline.com",
+    "name": "Healthline",
+    "sector": "healthcare",
+    "url": "https://www.healthline.com",
+    "tranco_rank": 884,
+    "compliance_score": 0.9393939393939394,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "clevelandclinic.org",
+    "name": "Cleveland Clinic",
+    "sector": "healthcare",
+    "url": "https://www.clevelandclinic.org",
+    "tranco_rank": 1853,
+    "compliance_score": 0.9,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "medicalnewstoday.com",
+    "name": "Medical News Today",
+    "sector": "healthcare",
+    "url": "https://www.medicalnewstoday.com",
+    "tranco_rank": 2029,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "medlineplus.gov",
+    "name": "MedlinePlus",
+    "sector": "healthcare",
+    "url": "https://www.medlineplus.gov",
+    "tranco_rank": 2642,
+    "compliance_score": 0.9666666666666667,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "cancer.org",
+    "name": "American Cancer Society",
+    "sector": "healthcare",
+    "url": "https://www.cancer.org",
+    "tranco_rank": 3114,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "hopkinsmedicine.org",
+    "name": "Johns Hopkins",
+    "sector": "healthcare",
+    "url": "https://www.hopkinsmedicine.org",
+    "tranco_rank": 3303,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ama-assn.org",
+    "name": "AMA",
+    "sector": "healthcare",
+    "url": "https://www.ama-assn.org",
+    "tranco_rank": 4684,
+    "compliance_score": 0.9666666666666667,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "everydayhealth.com",
+    "name": "Everyday Health",
+    "sector": "healthcare",
+    "url": "https://www.everydayhealth.com",
+    "tranco_rank": 4705,
+    "compliance_score": 0.9696969696969697,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "nhs.uk",
+    "name": "NHS",
+    "sector": "healthcare",
+    "url": "https://www.nhs.uk",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "patient.info",
+    "name": "Patient.info",
+    "sector": "healthcare",
+    "url": "https://www.patient.info",
+    "tranco_rank": null,
+    "compliance_score": 0.9655172413793104,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "webmd.com",
+    "name": "WebMD",
+    "sector": "healthcare",
+    "url": "https://www.webmd.com",
+    "tranco_rank": 855,
+    "compliance_score": 0.8157894736842105,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "psychologytoday.com",
+    "name": "Psychology Today",
+    "sector": "healthcare",
+    "url": "https://www.psychologytoday.com",
+    "tranco_rank": 1126,
+    "compliance_score": 0.8787878787878788,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "medscape.com",
+    "name": "Medscape",
+    "sector": "healthcare",
+    "url": "https://www.medscape.com",
+    "tranco_rank": 3058,
+    "compliance_score": 0.8,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "drugs.com",
+    "name": "Drugs.com",
+    "sector": "healthcare",
+    "url": "https://www.drugs.com",
+    "tranco_rank": 4324,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "lung.org",
+    "name": "American Lung Assoc",
+    "sector": "healthcare",
+    "url": "https://www.lung.org",
+    "tranco_rank": null,
+    "compliance_score": 0.8823529411764706,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "mentalhealth.gov",
+    "name": "MentalHealth.gov",
+    "sector": "healthcare",
+    "url": "https://www.mentalhealth.gov",
+    "tranco_rank": null,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "samhsa.gov",
+    "name": "SAMHSA",
+    "sector": "healthcare",
+    "url": "https://www.samhsa.gov",
+    "tranco_rank": null,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "rxlist.com",
+    "name": "RxList",
+    "sector": "healthcare",
+    "url": "https://www.rxlist.com",
+    "tranco_rank": null,
+    "compliance_score": 0.8421052631578947,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "kaiser.com",
+    "name": "Kaiser Health News",
+    "sector": "healthcare",
+    "url": "https://www.kaiser.com",
+    "tranco_rank": null,
+    "compliance_score": 0.7916666666666666,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "aetna.com",
+    "name": "Aetna",
+    "sector": "healthcare",
+    "url": "https://www.aetna.com",
+    "tranco_rank": null,
+    "compliance_score": 0.5,
+    "compliance_bin": "low"
+  },
+  {
+    "domain": "health.com",
+    "name": "Health.com",
+    "sector": "healthcare",
+    "url": "https://www.health.com",
+    "tranco_rank": null,
+    "compliance_score": 0.935483870967742,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "kff.org",
+    "name": "KFF",
+    "sector": "healthcare",
+    "url": "https://www.kff.org",
+    "tranco_rank": null,
+    "compliance_score": 0.9,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "diabetes.org",
+    "name": "ADA",
+    "sector": "healthcare",
+    "url": "https://www.diabetes.org",
+    "tranco_rank": null,
+    "compliance_score": 0.925,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "alz.org",
+    "name": "Alzheimer's Assoc",
+    "sector": "healthcare",
+    "url": "https://www.alz.org",
+    "tranco_rank": null,
+    "compliance_score": 0.967741935483871,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "mountsinai.org",
+    "name": "Mount Sinai",
+    "sector": "healthcare",
+    "url": "https://www.mountsinai.org",
+    "tranco_rank": null,
+    "compliance_score": 0.9090909090909091,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "stanfordhealthcare.org",
+    "name": "Stanford Health",
+    "sector": "healthcare",
+    "url": "https://www.stanfordhealthcare.org",
+    "tranco_rank": null,
+    "compliance_score": 0.96,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ucsfhealth.org",
+    "name": "UCSF Health",
+    "sector": "healthcare",
+    "url": "https://www.ucsfhealth.org",
+    "tranco_rank": null,
+    "compliance_score": 0.96875,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "pennmedicine.org",
+    "name": "Penn Medicine",
+    "sector": "healthcare",
+    "url": "https://www.pennmedicine.org",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "massgeneral.org",
+    "name": "Mass General",
+    "sector": "healthcare",
+    "url": "https://www.massgeneral.org",
+    "tranco_rank": null,
+    "compliance_score": 0.9642857142857143,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "bmc.org",
+    "name": "Boston Medical Center",
+    "sector": "healthcare",
+    "url": "https://www.bmc.org",
+    "tranco_rank": null,
+    "compliance_score": 0.9285714285714286,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "zocdoc.com",
+    "name": "Zocdoc",
+    "sector": "healthcare",
+    "url": "https://www.zocdoc.com",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "walgreens.com",
+    "name": "Walgreens",
+    "sector": "healthcare",
+    "url": "https://www.walgreens.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9428571428571428,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "cvs.com",
+    "name": "CVS",
+    "sector": "healthcare",
+    "url": "https://www.cvs.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9230769230769231,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "cigna.com",
+    "name": "Cigna",
+    "sector": "healthcare",
+    "url": "https://www.cigna.com",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "humana.com",
+    "name": "Humana",
+    "sector": "healthcare",
+    "url": "https://www.humana.com",
+    "tranco_rank": null,
+    "compliance_score": 0.935483870967742,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "kaiserpermanente.org",
+    "name": "Kaiser Permanente",
+    "sector": "healthcare",
+    "url": "https://www.kaiserpermanente.org",
+    "tranco_rank": null,
+    "compliance_score": 0.9666666666666667,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "health.harvard.edu",
+    "name": "Harvard Health",
+    "sector": "healthcare",
+    "url": "https://www.health.harvard.edu",
+    "tranco_rank": null,
+    "compliance_score": 0.9285714285714286,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "cnn.com",
+    "name": "CNN",
+    "sector": "news",
+    "url": "https://www.cnn.com",
+    "tranco_rank": 181,
+    "compliance_score": 0.935483870967742,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "theguardian.com",
+    "name": "The Guardian",
+    "sector": "news",
+    "url": "https://www.theguardian.com",
+    "tranco_rank": 187,
+    "compliance_score": 0.9117647058823529,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "bbc.com",
+    "name": "BBC",
+    "sector": "news",
+    "url": "https://www.bbc.com",
+    "tranco_rank": 204,
+    "compliance_score": 0.962962962962963,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "bbc.co.uk",
+    "name": "BBC UK",
+    "sector": "news",
+    "url": "https://www.bbc.co.uk",
+    "tranco_rank": 217,
+    "compliance_score": 0.962962962962963,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "reuters.com",
+    "name": "Reuters",
+    "sector": "news",
+    "url": "https://www.reuters.com",
+    "tranco_rank": 288,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "wsj.com",
+    "name": "WSJ",
+    "sector": "news",
+    "url": "https://www.wsj.com",
+    "tranco_rank": 358,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "ft.com",
+    "name": "Financial Times",
+    "sector": "news",
+    "url": "https://www.ft.com",
+    "tranco_rank": 528,
+    "compliance_score": 0.9642857142857143,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "time.com",
+    "name": "Time",
+    "sector": "news",
+    "url": "https://www.time.com",
+    "tranco_rank": 539,
+    "compliance_score": 0.967741935483871,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "independent.co.uk",
+    "name": "The Independent",
+    "sector": "news",
+    "url": "https://www.independent.co.uk",
+    "tranco_rank": 639,
+    "compliance_score": 0.9285714285714286,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "abc.net.au",
+    "name": "ABC Australia",
+    "sector": "news",
+    "url": "https://www.abc.net.au",
+    "tranco_rank": 856,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "aljazeera.com",
+    "name": "Al Jazeera",
+    "sector": "news",
+    "url": "https://www.aljazeera.com",
+    "tranco_rank": 944,
+    "compliance_score": 0.9375,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "theatlantic.com",
+    "name": "The Atlantic",
+    "sector": "news",
+    "url": "https://www.theatlantic.com",
+    "tranco_rank": 951,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "economist.com",
+    "name": "The Economist",
+    "sector": "news",
+    "url": "https://www.economist.com",
+    "tranco_rank": 1101,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "nytimes.com",
+    "name": "NY Times",
+    "sector": "news",
+    "url": "https://www.nytimes.com",
+    "tranco_rank": 152,
+    "compliance_score": 0.8378378378378378,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "forbes.com",
+    "name": "Forbes",
+    "sector": "news",
+    "url": "https://www.forbes.com",
+    "tranco_rank": 197,
+    "compliance_score": 0.8709677419354839,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "telegraph.co.uk",
+    "name": "The Telegraph",
+    "sector": "news",
+    "url": "https://www.telegraph.co.uk",
+    "tranco_rank": 443,
+    "compliance_score": 0.75,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "npr.org",
+    "name": "NPR",
+    "sector": "news",
+    "url": "https://www.npr.org",
+    "tranco_rank": 482,
+    "compliance_score": 0.8235294117647058,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "apnews.com",
+    "name": "AP News",
+    "sector": "news",
+    "url": "https://www.apnews.com",
+    "tranco_rank": 504,
+    "compliance_score": 0.8484848484848485,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "nbcnews.com",
+    "name": "NBC News",
+    "sector": "news",
+    "url": "https://www.nbcnews.com",
+    "tranco_rank": 510,
+    "compliance_score": 0.8,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "usatoday.com",
+    "name": "USA Today",
+    "sector": "news",
+    "url": "https://www.usatoday.com",
+    "tranco_rank": 543,
+    "compliance_score": 0.8,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "cbsnews.com",
+    "name": "CBS News",
+    "sector": "news",
+    "url": "https://www.cbsnews.com",
+    "tranco_rank": 641,
+    "compliance_score": 0.896551724137931,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "newsweek.com",
+    "name": "Newsweek",
+    "sector": "news",
+    "url": "https://www.newsweek.com",
+    "tranco_rank": 1175,
+    "compliance_score": 0.8125,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "politico.com",
+    "name": "Politico",
+    "sector": "news",
+    "url": "https://www.politico.com",
+    "tranco_rank": 1954,
+    "compliance_score": 0.8055555555555556,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "hindustantimes.com",
+    "name": "Hindustan Times",
+    "sector": "news",
+    "url": "https://www.hindustantimes.com",
+    "tranco_rank": 2590,
+    "compliance_score": 0.875,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "abcnews.go.com",
+    "name": "ABC News",
+    "sector": "news",
+    "url": "https://www.abcnews.go.com",
+    "tranco_rank": null,
+    "compliance_score": 0.7878787878787878,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "dailymail.co.uk",
+    "name": "Daily Mail",
+    "sector": "news",
+    "url": "https://www.dailymail.co.uk",
+    "tranco_rank": null,
+    "compliance_score": 0.7777777777777778,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "dw.com",
+    "name": "DW",
+    "sector": "news",
+    "url": "https://www.dw.com",
+    "tranco_rank": 1300,
+    "compliance_score": 0.9032258064516129,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "sky.com",
+    "name": "Sky News",
+    "sector": "news",
+    "url": "https://www.sky.com",
+    "tranco_rank": 1838,
+    "compliance_score": 0.9333333333333333,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "scmp.com",
+    "name": "SCMP",
+    "sector": "news",
+    "url": "https://www.scmp.com",
+    "tranco_rank": 2333,
+    "compliance_score": 0.9090909090909091,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "france24.com",
+    "name": "France 24",
+    "sector": "news",
+    "url": "https://www.france24.com",
+    "tranco_rank": 2780,
+    "compliance_score": 0.9655172413793104,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "japantimes.co.jp",
+    "name": "Japan Times",
+    "sector": "news",
+    "url": "https://www.japantimes.co.jp",
+    "tranco_rank": 4099,
+    "compliance_score": 0.9285714285714286,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "foxnews.com",
+    "name": "Fox News",
+    "sector": "news",
+    "url": "https://www.foxnews.com",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "huffpost.com",
+    "name": "HuffPost",
+    "sector": "news",
+    "url": "https://www.huffpost.com",
+    "tranco_rank": null,
+    "compliance_score": 0.8529411764705882,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "buzzfeed.com",
+    "name": "BuzzFeed",
+    "sector": "news",
+    "url": "https://www.buzzfeed.com",
+    "tranco_rank": null,
+    "compliance_score": 0.84375,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "vice.com",
+    "name": "Vice",
+    "sector": "news",
+    "url": "https://www.vice.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9333333333333333,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "vox.com",
+    "name": "Vox",
+    "sector": "news",
+    "url": "https://www.vox.com",
+    "tranco_rank": null,
+    "compliance_score": 1.0,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "wired.com",
+    "name": "Wired",
+    "sector": "news",
+    "url": "https://www.wired.com",
+    "tranco_rank": null,
+    "compliance_score": 0.875,
+    "compliance_bin": "medium"
+  },
+  {
+    "domain": "arstechnica.com",
+    "name": "Ars Technica",
+    "sector": "news",
+    "url": "https://www.arstechnica.com",
+    "tranco_rank": null,
+    "compliance_score": 0.962962962962963,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "techcrunch.com",
+    "name": "TechCrunch",
+    "sector": "news",
+    "url": "https://www.techcrunch.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9666666666666667,
+    "compliance_bin": "high"
+  },
+  {
+    "domain": "theverge.com",
+    "name": "The Verge",
+    "sector": "news",
+    "url": "https://www.theverge.com",
+    "tranco_rank": null,
+    "compliance_score": 0.9411764705882353,
+    "compliance_bin": "high"
+  }
+]
