@@ -143,7 +143,7 @@ def make_figures(agent_df, merged, importance, outdir):
     ax.set_xticklabels(ms.index, rotation=15)
     ax.set_ylabel("Mean success rate")
     ax.set_title("Agent success rate by observation mode")
-    save(fig, "fig_success_by_mode")
+    save(fig, "fig_overview_success_by_mode")
 
     # Fig 3: success rate by compliance band
     fig, ax = plt.subplots(figsize=(6, 4))
@@ -155,8 +155,8 @@ def make_figures(agent_df, merged, importance, outdir):
         ax.set_xticks(range(len(bs)))
         ax.set_xticklabels(bs.index)
         ax.set_ylabel("Mean success rate")
-        ax.set_title("Agent success rate by WCAG compliance band")
-        save(fig, "fig_success_by_band")
+        ax.set_title("Agent success rate by sampling compliance bin")
+        save(fig, "fig_overview_success_by_bin")
 
     # Fig 4: top feature importances
     if importance is not None and not importance.empty:
